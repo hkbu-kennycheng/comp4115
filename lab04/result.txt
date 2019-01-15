@@ -1,0 +1,3135 @@
+Data analysis->Numerical analysis
+Data analysis->Computer simulation
+Data analysis->Finite element method
+Data analysis->Boundary element method
+Data analysis->Lattice Boltzmann methods
+Data analysis->Riemann solver
+Data analysis->Dissipative particle dynamics
+Data analysis->Smoothed-particle hydrodynamics
+Data analysis->Data cleansing
+Data analysis->Data transformation
+Data analysis->Data modeling
+Data analysis->Data
+Data analysis->Data mining
+Data analysis->Business intelligence
+Data analysis->Descriptive statistics
+Data analysis->Exploratory data analysis
+Data analysis->Statistical hypothesis testing
+Data analysis->Hypotheses
+Data analysis->Predictive analytics
+Data analysis->Text analytics
+Data analysis->Unstructured data
+Data analysis->Data integration
+Data analysis->Wikipedia:Manual of Style/Words to watch
+Data analysis->Wikipedia:Please clarify
+Data analysis->Data visualization
+Data analysis->Process theory
+Data analysis->John Tukey
+Data analysis->Data model
+Data analysis->Exploratory data analysis
+Data analysis->Descriptive statistics
+Data analysis->Data visualization
+Data analysis->Algorithms
+Data analysis->Correlation and dependence
+Data analysis->Causality
+Data analysis->Inferential statistics
+Data analysis->Regression analysis
+Data analysis->Data visualization
+Data analysis->Information displays
+Data analysis->Descriptive statistics
+Data analysis->Median
+Data analysis->Standard deviation
+Data analysis->Probability distribution
+Data analysis->McKinsey and Company
+Data analysis->MECE principle
+Data analysis->Mutually exclusive events
+Data analysis->Collectively exhaustive events
+Data analysis->Hypothesis testing
+Data analysis->Phillips Curve
+Data analysis->Type I and type II errors
+Data analysis->Regression analysis
+Data analysis->Daniel Patrick Moynihan
+Data analysis->Fact
+Data analysis->Opinion
+Data analysis->Hypotheses
+Data analysis->Congressional Budget Office
+Data analysis->Bush tax cuts
+Data analysis->Type I and type II errors
+Data analysis->Cognitive bias
+Data analysis->Confirmation bias
+Data analysis->Richards Heuer
+Data analysis->Numeracy
+Data analysis->Financial statement analysis
+Data analysis->Business intelligence
+Data analysis->Education
+Data analysis->Data system
+Data analysis->Over-the-counter data
+Data analysis->Measuring instrument
+Data analysis->Randomization
+Data analysis->Nonlinear system
+Data analysis->Bifurcation theory
+Data analysis->Chaos theory
+Data analysis->Harmonics
+Data analysis->Subharmonics
+Data analysis->Nonlinear system identification
+Data analysis->Exploratory data analysis
+Data analysis->Type 1 error
+Data analysis->Bonferroni correction
+Data analysis->Type 1 error
+Numerical analysis->Algorithm
+Numerical analysis->Approximation
+Numerical analysis->Symbolic computation
+Numerical analysis->Mathematical analysis
+Numerical analysis->Discrete mathematics
+Numerical analysis->Yale Babylonian Collection
+Numerical analysis->YBC 7289
+Numerical analysis->Sexagesimal
+Numerical analysis->Square root of 2
+Numerical analysis->Diagonal
+Numerical analysis->Unit square
+Numerical analysis->Square root
+Numerical analysis->Astronomy
+Numerical analysis->Carpentry
+Numerical analysis->Babylonian mathematics
+Numerical analysis->Ordinary differential equation
+Numerical analysis->Celestial mechanics
+Numerical analysis->Numerical linear algebra
+Numerical analysis->Stochastic differential equation
+Numerical analysis->Markov chain
+Numerical analysis->Numerical method
+Numerical analysis->Interpolation
+Numerical analysis->Differential equation
+Numerical analysis->Linear interpolation
+Numerical analysis->Newton's method
+Numerical analysis->Lagrange polynomial
+Numerical analysis->Gaussian elimination
+Numerical analysis->Euler's method
+Numerical analysis->NIST
+Numerical analysis->Abramowitz and Stegun
+Numerical analysis->Mechanical calculator
+Numerical analysis->Bisection method
+Numerical analysis->Riemann sum
+Numerical analysis->Integral
+Numerical analysis->Computer numbering formats
+Numerical analysis->Gaussian elimination
+Numerical analysis->QR decomposition
+Numerical analysis->System of linear equations
+Numerical analysis->Simplex method
+Numerical analysis->Linear programming
+Numerical analysis->Floating point
+Numerical analysis->Numerically stable
+Numerical analysis->Iterative method
+Numerical analysis->Limit of a sequence
+Numerical analysis->Residual (numerical analysis)
+Numerical analysis->Newton's method
+Numerical analysis->Bisection method
+Numerical analysis->Jacobi iteration
+Numerical analysis->GMRES
+Numerical analysis->Conjugate gradient method
+Numerical analysis->Discretization
+Numerical analysis->Differential equation
+Numerical analysis->Function (mathematics)
+Numerical analysis->Continuum (set theory)
+Numerical analysis->Round-off error
+Numerical analysis->Real number
+Numerical analysis->Digital computer
+Numerical analysis->Truncation error
+Numerical analysis->Discretization error
+Numerical analysis->Numerical stability
+Numerical analysis->Condition number
+Numerical analysis->Babylonian method
+Numerical analysis->Gross domestic product
+Numerical analysis->Lemonade stand
+Numerical analysis->Euler method
+Numerical analysis->Horner scheme
+Numerical analysis->Round-off error
+Numerical analysis->Floating point
+Numerical analysis->Interpolation
+Numerical analysis->Extrapolation
+Numerical analysis->Regression analysis
+Numerical analysis->Numerical methods for linear least squares
+Numerical analysis->Systems of linear equations
+Numerical analysis->Matrix decomposition
+Numerical analysis->Gaussian elimination
+Numerical analysis->LU decomposition
+Numerical analysis->Cholesky decomposition
+Numerical analysis->Symmetric matrix
+Numerical analysis->Hermitian matrix
+Numerical analysis->Positive-definite matrix
+Numerical analysis->QR decomposition
+Numerical analysis->Iterative method
+Numerical analysis->Jacobi method
+Numerical analysis->Gauss–Seidel method
+Numerical analysis->Successive over-relaxation
+Numerical analysis->Conjugate gradient method
+Numerical analysis->Matrix splitting
+Numerical analysis->Root-finding algorithm
+Numerical analysis->Derivative
+Numerical analysis->Newton's method
+Numerical analysis->Linearization
+Numerical analysis->Eigenvalue decomposition
+Numerical analysis->Singular value decomposition
+Numerical analysis->Image compression
+Numerical analysis->Principal component analysis
+Numerical analysis->Constraint (mathematics)
+Numerical analysis->Linear programming
+Numerical analysis->Simplex method
+Numerical analysis->Lagrange multipliers
+Numerical analysis->Quadrature (mathematics)
+Numerical analysis->Integral
+Numerical analysis->Newton–Cotes formulas
+Numerical analysis->Simpson's rule
+Numerical analysis->Gaussian quadrature
+Numerical analysis->Monte Carlo method
+Numerical analysis->Quasi-Monte Carlo method
+Numerical analysis->Monte Carlo integration
+Numerical analysis->Sparse grid
+Numerical analysis->Differential equation
+Numerical analysis->Partial differential equation
+Numerical analysis->Finite element method
+Numerical analysis->Finite difference
+Numerical analysis->Finite volume method
+Numerical analysis->Functional analysis
+Numerical analysis->Netlib
+Numerical analysis->Fortran
+Numerical analysis->C (programming language)
+Numerical analysis->IMSL Numerical Libraries
+Numerical analysis->Numerical Algorithms Group
+Numerical analysis->Free software
+Numerical analysis->GNU Scientific Library
+Numerical analysis->MATLAB
+Numerical analysis->TK Solver
+Numerical analysis->S-PLUS
+Numerical analysis->IDL (programming language)
+Numerical analysis->FreeMat
+Numerical analysis->Scilab
+Numerical analysis->GNU Octave
+Numerical analysis->IT++
+Numerical analysis->R (programming language)
+Numerical analysis->Python (programming language)
+Numerical analysis->NumPy
+Numerical analysis->SciPy
+Numerical analysis->SymPy
+Numerical analysis->Computer algebra system
+Numerical analysis->Mathematica
+Numerical analysis->Arbitrary precision arithmetic
+Numerical analysis->Spreadsheet
+Numerical analysis->Software
+Computer simulation->Computer
+Computer simulation->Mathematical model
+Computer simulation->Physics
+Computer simulation->Computational physics
+Computer simulation->Astrophysics
+Computer simulation->Climatology
+Computer simulation->Chemistry
+Computer simulation->Biology
+Computer simulation->Economics
+Computer simulation->Psychology
+Computer simulation->Social science
+Computer simulation->Engineering
+Computer simulation->Technology
+Computer simulation->Analytical solution
+Computer simulation->Computer program
+Computer simulation->Kuwait
+Computer simulation->United States Department of Defense
+Computer simulation->Ribosome
+Computer simulation->Mycoplasma genitalium
+Computer simulation->Blue Brain
+Computer simulation->EPFL
+Computer simulation->Computer experiment
+Computer simulation->Uncertainty quantification
+Computer simulation->Computer model
+Computer simulation->Manhattan Project
+Computer simulation->World War II
+Computer simulation->Nuclear weapon
+Computer simulation->Hard spheres
+Computer simulation->Monte Carlo method
+Computer simulation->Closed-form solution
+Computer simulation->Simulation language
+Computer simulation->Simula
+Computer simulation->Accuracy
+Computer simulation->Graphic display resolutions
+Computer simulation->Accuracy and precision
+Computer simulation->Garbage in, garbage out
+Computer simulation->Chaos theory
+Computer simulation->Parameter (computer programming)
+Computer simulation->Mathematical model
+Computer simulation->Computer generated imagery
+Computer simulation->Coordinate
+Computer simulation->Weather forecasting
+Computer simulation->CAT scan
+Computer simulation->Brain cancer
+Computer simulation->Donella Meadows
+Computer simulation->World3
+Computer simulation->Limits to Growth
+Computer simulation->James Lovelock
+Computer simulation->Daisyworld
+Computer simulation->Tierra (computer simulation)
+Computer simulation->Graphical environment
+Computer simulation->Open Source Physics
+Computer simulation->Java (programming language)
+Computer simulation->EJS
+Computer simulation->Validity
+Computer simulation->Model (abstract)
+Computer simulation->Verification and validation
+Computer simulation->Stochastic simulation
+Computer simulation->Computer games
+Computer simulation->Vehicle
+Computer simulation->Computer graphics
+Computer simulation->Animations
+Computer simulation->Training Simulation
+Computer simulation->Scientific visualization
+Computer simulation->Buffer overflow
+Computer simulation->Performance tuning
+Computer simulation->Sensitivity analysis
+Computer simulation->Monte Carlo method
+Finite element method->Numerical analysis
+Finite element method->Mathematical physics
+Finite element method->Structural analysis
+Finite element method->Heat transfer
+Finite element method->Fluid flow
+Finite element method->Electromagnetic potential
+Finite element method->Closed-form expression
+Finite element method->Boundary value problem
+Finite element method->Partial differential equations
+Finite element method->Algebraic equation
+Finite element method->Variational methods
+Finite element method->Calculus of variations
+Finite element method->Analysis
+Finite element method->Initial value
+Finite element method->Partial differential equation
+Finite element method->Galerkin method
+Finite element method->Inner product
+Finite element method->Weight function
+Finite element method->Polynomial
+Finite element method->Linear
+Finite element method->Numerical linear algebra
+Finite element method->Euler's method
+Finite element method->Runge-Kutta
+Finite element method->Transformation matrix
+Finite element method->Coordinate system
+Finite element method->Coordinates
+Finite element method->Engineering
+Finite element method->Engineering analysis
+Finite element method->Mesh generation
+Finite element method->Complex system
+Finite element method->Software
+Finite element method->Physics
+Finite element method->Euler-Bernoulli beam equation
+Finite element method->Heat equation
+Finite element method->Navier-Stokes equations
+Finite element method->Integral equation
+Finite element method->Numerical weather prediction
+Finite element method->Tropical cyclone
+Finite element method->Eddy (fluid dynamics)
+Finite element method->Elasticity (physics)
+Finite element method->Structural analysis
+Finite element method->Civil engineering
+Finite element method->Aeronautical engineering
+Finite element method->Alexander Hrennikoff
+Finite element method->Richard Courant
+Finite element method->Ioannis Argyris
+Finite element method->Leonard Oganesyan (page does not exist)
+Finite element method->Feng Kang
+Finite element method->Partial differential equation
+Finite element method->Polygon mesh
+Finite element method->Discretization
+Finite element method->Lattice (group)
+Finite element method->Second order equation
+Finite element method->Elliptic equation
+Finite element method->Torsion (mechanics)
+Finite element method->Cylinder (geometry)
+Finite element method->John William Strutt, 3rd Baron Rayleigh
+Finite element method->Walther Ritz
+Finite element method->Boris Galerkin
+Finite element method->John Argyris
+Finite element method->University of Stuttgart
+Finite element method->Ray W. Clough
+Finite element method->University of California, Berkeley
+Finite element method->Olgierd Zienkiewicz
+Finite element method->Ernest Hinton
+Finite element method->Bruce Irons (engineer)
+Finite element method->Swansea University
+Finite element method->Philippe G. Ciarlet
+Finite element method->Pierre-and-Marie-Curie University
+Finite element method->Cornell University
+Finite element method->NASTRAN
+Finite element method->DNV GL
+Finite element method->SESAM (FEM)
+Finite element method->Gilbert Strang
+Finite element method->George Fix
+Finite element method->Numerical analysis
+Finite element method->Engineering
+Finite element method->Electromagnetism
+Finite element method->Heat transfer
+Finite element method->Fluid dynamics
+Finite element method->Calculus of variations
+Finite element method->Galerkin method
+Finite element method->P-FEM
+Finite element method->Hp-FEM
+Finite element method->Extended finite element method
+Finite element method->Isogeometric analysis
+Finite element method->Superconvergence
+Finite element method->Calculus
+Finite element method->Linear algebra
+Finite element method->Dirichlet problem
+Finite element method->Smooth manifold
+Finite element method->Polygon
+Finite element method->Antiderivative
+Finite element method->Boundary value problem
+Finite element method->Computer
+Finite element method->Weak formulation
+Finite element method->Mean value theorem
+Finite element method->Distribution (mathematics)
+Finite element method->Integration by parts
+Finite element method->Green's identities
+Finite element method->Gradient
+Finite element method->Dot product
+Finite element method->Sobolev space
+Finite element method->Absolutely continuous
+Finite element method->Sobolev spaces
+Finite element method->Bilinear map
+Finite element method->Inner product
+Finite element method->Hilbert space
+Finite element method->Lp space
+Finite element method->Riesz representation theorem
+Finite element method->Elliptic operator
+Finite element method->Linear subspace
+Finite element method->Spectral method
+Finite element method->Integration by parts
+Finite element method->Polygon triangulation
+Finite element method->Polygon
+Finite element method->Basis (linear algebra)
+Finite element method->Tent function
+Finite element method->Hp-FEM
+Finite element method->Spectral element method
+Finite element method->Gramian matrix
+Finite element method->Support (mathematics)
+Finite element method->Sparse matrix
+Finite element method->Conjugate gradient method
+Finite element method->LU decomposition
+Finite element method->Cholesky decomposition
+Finite element method->MATLAB
+Finite element method->Stiffness matrix
+Finite element method->Mass matrix
+Finite element method->Elliptic boundary value problem
+Finite element method->Smooth function
+Finite element method->Conforming element method (page does not exist)
+Finite element method->Nonconforming element method (page does not exist)
+Finite element method->Hp-FEM
+Finite element method->Spectral element method
+Finite element method->Spectral method
+Finite element method->Discrete element method
+Finite element method->Partition of unity
+Finite element method->Hp-FEM
+Finite element method->Hpk-FEM (page does not exist)
+Finite element method->Extended finite element method
+Finite element method->Loubignac iteration
+Finite element method->Gradient discretisation method
+Finite element method->Finite difference method
+Finite element method->Computational fluid dynamics
+Finite element method->Finite volume method
+Boundary element method->Partial differential equations
+Boundary element method->Integral equation
+Boundary element method->Fluid mechanics
+Boundary element method->Acoustics
+Boundary element method->Electromagnetics
+Boundary element method->Fracture mechanics
+Boundary element method->Contact mechanics
+Boundary element method->Boundary condition
+Boundary element method->Green's function
+Boundary element method->Linear
+Boundary element method->Homogeneity (physics)
+Boundary element method->Discretize
+Boundary element method->Wikipedia:Citation needed
+Boundary element method->Dual-reciprocity method (page does not exist)
+Boundary element method->Radial basis function
+Boundary element method->Galerkin's method
+Boundary element method->Reciprocity (electromagnetism)
+Boundary element method->Gauss quadrature
+Boundary element method->Mesh
+Boundary element method->Finite element method
+Boundary element method->Finite difference method
+Boundary element method->Finite volume method
+Boundary element method->Natural frequencies
+Boundary element method->Slosh dynamics
+Boundary element method->Hierarchical matrix
+Lattice Boltzmann methods->Computational fluid dynamics
+Lattice Boltzmann methods->Fluid simulation
+Lattice Boltzmann methods->Navier–Stokes equations
+Lattice Boltzmann methods->Boltzmann equation
+Lattice Boltzmann methods->Newtonian fluid
+Lattice Boltzmann methods->Collision
+Lattice Boltzmann methods->Bhatnagar–Gross–Krook
+Lattice Boltzmann methods->Wikipedia:Citation needed
+Lattice Boltzmann methods->Boltzmann equation
+Lattice Boltzmann methods->Aerodynamics
+Lattice Boltzmann methods->Equation of state
+Lattice Boltzmann methods->Microfluidics
+Lattice Boltzmann methods->Wikipedia:Citation needed
+Lattice Boltzmann methods->Knudsen number
+Lattice Boltzmann methods->Wikipedia:Citation needed
+Lattice Boltzmann methods->Lattice gas automata
+Lattice Boltzmann methods->FHP Model (page does not exist)
+Lattice Boltzmann methods->Particle number
+Lattice Boltzmann methods->Galilean invariance
+Lattice Boltzmann methods->Statistical noise
+Lattice Boltzmann methods->Reynolds number
+Lattice Boltzmann methods->Reaction diffusion
+Lattice Boltzmann methods->Molecular dynamics
+Lattice Boltzmann methods->Bhatnagar-Gross-Krook
+Lattice Boltzmann methods->Chapman-Enskog theory
+Lattice Boltzmann methods->Poisson equation
+Lattice Boltzmann methods->Reynolds number
+Lattice Boltzmann methods->Porous media
+Lattice Boltzmann methods->Mach number
+Lattice Boltzmann methods->Viscosity
+Lattice Boltzmann methods->Reynolds number
+Lattice Boltzmann methods->Interface (chemistry)
+Lattice Boltzmann methods->Phase (matter)
+Lattice Boltzmann methods->Liquid bubble
+Lattice Boltzmann methods->Droplet
+Lattice Boltzmann methods->Wetting
+Lattice Boltzmann methods->Mach number
+Lattice Boltzmann methods->Rayleigh–Bénard convection
+Lattice Boltzmann methods->Wikipedia:Please clarify
+Lattice Boltzmann methods->Kinematic viscosity
+Lattice Boltzmann methods->Moment (mathematics)
+Lattice Boltzmann methods->Equation of state
+Lattice Boltzmann methods->Equation of state
+Riemann solver->Numerical analysis
+Riemann solver->Computer simulation
+Riemann solver->Finite element method
+Riemann solver->Boundary element method
+Riemann solver->Lattice Boltzmann methods
+Riemann solver->Dissipative particle dynamics
+Riemann solver->Smoothed-particle hydrodynamics
+Riemann solver->Numerical method
+Riemann solver->Riemann problem
+Riemann solver->Computational fluid dynamics
+Riemann solver->Computational magnetohydrodynamics
+Riemann solver->Sergei K. Godunov
+Riemann solver->Philip L. Roe
+Riemann solver->Ami Harten
+Riemann solver->Peter Lax
+Riemann solver->Bram van Leer
+Riemann solver->Wikipedia:Citation needed
+Riemann solver->Hiroaki Nishikawa (page does not exist)
+Dissipative particle dynamics->Cellular automaton
+Dissipative particle dynamics->Molecular dynamics
+Dissipative particle dynamics->P. Español (page does not exist)
+Dissipative particle dynamics->Brownian dynamics
+Dissipative particle dynamics->Particle number
+Dissipative particle dynamics->Beowulf cluster
+Dissipative particle dynamics->Non-Newtonian fluid
+Dissipative particle dynamics->CECAM
+Dissipative particle dynamics->Molecular dynamics
+Smoothed-particle hydrodynamics->Solid mechanics
+Smoothed-particle hydrodynamics->Fluid dynamics
+Smoothed-particle hydrodynamics->Astrophysics
+Smoothed-particle hydrodynamics->Ballistics
+Smoothed-particle hydrodynamics->Volcanology
+Smoothed-particle hydrodynamics->Oceanography
+Smoothed-particle hydrodynamics->Meshfree methods
+Smoothed-particle hydrodynamics->Lagrangian and Eulerian specification of the flow field
+Smoothed-particle hydrodynamics->Density
+Smoothed-particle hydrodynamics->Fluid motion
+Smoothed-particle hydrodynamics->Metaballs
+Smoothed-particle hydrodynamics->Marching cubes
+Smoothed-particle hydrodynamics->Volume rendering
+Smoothed-particle hydrodynamics->Structured grid
+Smoothed-particle hydrodynamics->Voxels
+Smoothed-particle hydrodynamics->Incompressible flow
+Smoothed-particle hydrodynamics->Fluid simulation
+Smoothed-particle hydrodynamics->Order of magnitude
+Smoothed-particle hydrodynamics->Theoretical astrophysics
+Smoothed-particle hydrodynamics->Galaxy formation
+Smoothed-particle hydrodynamics->Star formation
+Smoothed-particle hydrodynamics->Stellar collision
+Smoothed-particle hydrodynamics->Supernovae
+Smoothed-particle hydrodynamics->Meteor
+Smoothed-particle hydrodynamics->Gravity
+Smoothed-particle hydrodynamics->Radiative transfer
+Smoothed-particle hydrodynamics->Magnetohydrodynamics
+Smoothed-particle hydrodynamics->Reproducing kernel particle method
+Smoothed-particle hydrodynamics->Ted Belytschko
+Smoothed-particle hydrodynamics->Kernel smoother
+Smoothed-particle hydrodynamics->Volume
+Smoothed-particle hydrodynamics->Gaussian function
+Smoothed-particle hydrodynamics->Quintic spline (page does not exist)
+Smoothed-particle hydrodynamics->Space
+Smoothed-particle hydrodynamics->Time
+Smoothed-particle hydrodynamics->Continuum mechanics
+Smoothed-particle hydrodynamics->Euler equations (fluid dynamics)
+Smoothed-particle hydrodynamics->Least action principle
+Smoothed-particle hydrodynamics->Lagrangian mechanics
+Smoothed-particle hydrodynamics->Internal energy
+Smoothed-particle hydrodynamics->Euler-Lagrange equation
+Smoothed-particle hydrodynamics->Symplectic integrator
+Smoothed-particle hydrodynamics->Leapfrog integration
+Smoothed-particle hydrodynamics->Navier-Stokes equations
+Smoothed-particle hydrodynamics->Equation of state
+Smoothed-particle hydrodynamics->Cole equation of state
+Smoothed-particle hydrodynamics->Tait equation of state
+Smoothed-particle hydrodynamics->Speed of sound
+Smoothed-particle hydrodynamics->Mach number
+Smoothed-particle hydrodynamics->Wikipedia:Citation needed
+Smoothed-particle hydrodynamics->Viscosity
+Smoothed-particle hydrodynamics->Navier-Stokes
+Smoothed-particle hydrodynamics->Laplacian
+Smoothed-particle hydrodynamics->Mach number
+Smoothed-particle hydrodynamics->Reynolds numbers
+Smoothed-particle hydrodynamics->Barnes–Hut simulation
+Smoothed-particle hydrodynamics->Particle Mesh
+Smoothed-particle hydrodynamics->P3M
+Data cleansing->Storage record
+Data cleansing->Table (database)
+Data cleansing->Database
+Data cleansing->Dirty data
+Data cleansing->Interactively
+Data cleansing->Data wrangling
+Data cleansing->Batch processing
+Data cleansing->Script (computing)
+Data cleansing->Data set
+Data cleansing->Data dictionary
+Data cleansing->Data validation
+Data cleansing->Typographical error
+Data cleansing->Postal code
+Data cleansing->Fuzzy logic
+Data cleansing->Investment
+Data cleansing->Government
+Data cleansing->Infrastructure
+Data cleansing->Database
+Data cleansing->Application programming interface
+Data cleansing->Data integrity
+Data cleansing->Referential integrity
+Data cleansing->Dirty data
+Data cleansing->Extract, transform, load
+Data cleansing->Data warehouse
+Data cleansing->Data profiling
+Data cleansing->Trifacta
+Data cleansing->OpenRefine
+Data cleansing->Paxata
+Data cleansing->Alteryx
+Data cleansing->Pandas (software)
+Data cleansing->Python (programming language)
+Data cleansing->R (programming language)
+Data cleansing->Apache Spark
+Data cleansing->Open-source model
+Data cleansing->Integrity
+Data cleansing->Fact table
+Data cleansing->Foreign key
+Data cleansing->Batch job
+Data cleansing->Fact table
+Data cleansing->Foreign key
+Data transformation->Data integration
+Data transformation->Data management
+Data transformation->Data wrangling
+Data transformation->Data warehousing
+Data transformation->Data integration
+Data transformation->Master data
+Data transformation->Database
+Data transformation->Database table
+Data transformation->Foreign key
+Data transformation->Database index
+Data transformation->Applications architecture
+Data transformation->Data model
+Data transformation->Transformation language
+Data transformation->Grammar
+Data transformation->Backus–Naur form
+Data transformation->SPARK (programming language)
+Data transformation->MapReduce
+Data transformation->Text editor
+Data transformation->Emacs
+Data transformation->Textpad
+Data modeling->Software engineering
+Data modeling->Data model
+Data modeling->Information system
+Data modeling->Software development process
+Data modeling->Requirement
+Data modeling->Business process
+Data modeling->Conceptual schema
+Data modeling->Conceptual modeling
+Data modeling->Logical data model
+Data modeling->Physical data model
+Data modeling->Jeffrey L. Whitten
+Data modeling->Requirement
+Data modeling->Database
+Data modeling->Data model
+Data modeling->Data
+Data modeling->Information system
+Data modeling->American National Standards Institute
+Data modeling->Business process modeling
+Data modeling->Business process modeling
+Data modeling->Data Definition Language
+Data modeling->Database system
+Data modeling->Relational model
+Data modeling->Table (database)
+Data modeling->View (database)
+Data modeling->Object database
+Data modeling->Database management system
+Data modeling->Interface (computer science)
+Data modeling->Len Silverston (page does not exist)
+Data modeling->Computer-aided software engineering
+Data modeling->Physical data model
+Data modeling->Data
+Data modeling->Database model
+Data modeling->Software engineering
+Data modeling->Conceptual schema
+Data modeling->Semantic data model
+Data modeling->Relational database
+Data modeling->Top-down and bottom-up design
+Data modeling->Information system
+Data modeling->Requirements analysis
+Data modeling->Information
+Data modeling->Database
+Data modeling->Data model
+Data modeling->Ontology (computer science)
+Data modeling->Domain of discourse
+Data modeling->Data model
+Data modeling->Binary relation
+Data modeling->Semantic data model
+Data modeling->Abstraction (computer science)
+Data modeling->Abstraction (computer science)
+Data modeling->Artificial intelligence
+Data modeling->Copyright status of work by the U.S. government
+Data modeling->National Institute of Standards and Technology
+Data->Help:IPA/English
+Data->Help:Pronunciation respelling key
+Data->Help:IPA/English
+Data->Help:Pronunciation respelling key
+Data->Help:IPA/English
+Data->Help:Pronunciation respelling key
+Data->Set (mathematics)
+Data->Qualitative property
+Data->Quantitative data
+Data->Variable (research)
+Data->Information
+Data->Shannon entropy
+Data->Scientific research
+Data->Stock price
+Data->Crime rate
+Data->Unemployment rate
+Data->Literacy
+Data->Homelessness
+Data->Measurement
+Data->Data reporting
+Data->Data analysis
+Data->Data visualization
+Data->Concept
+Data->Information
+Data->Knowledge
+Data->Knowledge representation and reasoning
+Data->Code
+Data->Data processing
+Data->Raw data
+Data->Number
+Data->Character (computing)
+Data->Outlier
+Data->Field work
+Data->In situ
+Data->Experimental data
+Data->Petroleum
+Data->Digital economy
+Data->Data (word)
+Data->Mass noun
+Data->Information
+Data->Knowledge
+Data->Wisdom
+Data->Knowledge
+Data->Mount Everest
+Data->Altimeter
+Data->Sign
+Data->Marketing
+Data->Social services
+Data->Truth
+Data->Analog computer
+Data->Computer
+Data->Alphabet
+Data->Computer program
+Data->Lisp (programming language)
+Data->Metadata
+Data->Johanna Drucker
+Data->Free On-line Dictionary of Computing
+Data->GNU Free Documentation License
+Data mining->Data set
+Data mining->Machine learning
+Data mining->Statistics
+Data mining->Database system
+Data mining->Interdisciplinary
+Data mining->Computer science
+Data mining->Data management
+Data mining->Data pre-processing
+Data mining->Statistical model
+Data mining->Statistical inference
+Data mining->Computational complexity theory
+Data mining->Data visualization
+Data mining->Online algorithm
+Data mining->Misnomer
+Data mining->Buzzword
+Data mining->Information processing
+Data mining->Data collection
+Data mining->Information extraction
+Data mining->Data warehouse
+Data mining->Data analysis
+Data mining->Decision support system
+Data mining->Business intelligence
+Data mining->Data analysis
+Data mining->Analytics
+Data mining->Cluster analysis
+Data mining->Anomaly detection
+Data mining->Association rule mining
+Data mining->Sequential pattern mining
+Data mining->Spatial index
+Data mining->Predictive analytics
+Data mining->Decision support system
+Data mining->Data dredging
+Data mining->Michael Lovell
+Data mining->Review of Economic Studies
+Data mining->Gregory I. Piatetsky-Shapiro
+Data mining->Artificial intelligence
+Data mining->Machine learning
+Data mining->KDD-95 (page does not exist)
+Data mining->AAAI
+Data mining->Usama Fayyad
+Data mining->Data Mining and Knowledge Discovery
+Data mining->SIGKDDD (page does not exist)
+Data mining->Data
+Data mining->Bayes' theorem
+Data mining->Regression analysis
+Data mining->Data set
+Data mining->Neural networks
+Data mining->Cluster analysis
+Data mining->Genetic algorithms
+Data mining->Decision tree learning
+Data mining->Decision rules
+Data mining->Support vector machines
+Data mining->Applied statistics
+Data mining->Database management
+Data mining->Cross Industry Standard Process for Data Mining
+Data mining->SEMMA
+Data mining->Data mart
+Data mining->Data warehouse
+Data mining->Multivariate statistics
+Data mining->Statistical noise
+Data mining->Missing data
+Data mining->Reproducibility
+Data mining->Statistical hypothesis testing
+Data mining->Machine learning
+Data mining->Overfitting
+Data mining->Overfitting
+Data mining->Test set
+Data mining->Training set
+Data mining->Receiver operating characteristic
+Data mining->Association for Computing Machinery
+Data mining->SIGKDD
+Data mining->Academic journal
+Data mining->List of computer science conferences
+Data mining->SIGMOD
+Data mining->International Conference on Very Large Data Bases
+Data mining->Cross Industry Standard Process for Data Mining
+Data mining->Java Data Mining
+Data mining->Predictive analytics
+Data mining->Predictive Model Markup Language
+Data mining->XML
+Data mining->Subspace clustering
+Data mining->Examples of data mining
+Data mining->Total Information Awareness
+Data mining->ADVISE
+Data mining->Aggregate function
+Data mining->Personally identifiable information
+Data mining->International Safe Harbor Privacy Principles
+Data mining->Edward Snowden
+Data mining->Global surveillance disclosure
+Data mining->National Security Agency
+Data mining->Wikipedia:Citation needed
+Data mining->US Congress
+Data mining->Health Insurance Portability and Accountability Act
+Data mining->Family Educational Rights and Privacy Act
+Data mining->Database Directive
+Data mining->Web mining
+Data mining->Database Directive
+Data mining->Hargreaves review
+Data mining->Limitations and exceptions to copyright
+Data mining->Copyright Directive
+Data mining->European Commission
+Data mining->Open access
+Data mining->Fair use
+Data mining->Google Book Search Settlement Agreement
+Data mining->DMOZ
+Data mining->DMOZ
+Business intelligence->Data analysis
+Business intelligence->Business information
+Business intelligence->Business operations
+Business intelligence->Business reporting
+Business intelligence->Online analytical processing
+Business intelligence->Analytics
+Business intelligence->Data mining
+Business intelligence->Process mining
+Business intelligence->Complex event processing
+Business intelligence->Business performance management
+Business intelligence->Benchmarking
+Business intelligence->Text mining
+Business intelligence->Predictive Analysis
+Business intelligence->Prescriptive Analytics
+Business intelligence->Business opportunities
+Business intelligence->Big data
+Business intelligence->Business
+Business intelligence->Business strategy
+Business intelligence->Goal
+Business intelligence->Company
+Business intelligence->Empowerment
+Business intelligence->Organization
+Business intelligence->Market segmentation
+Business intelligence->Wikipedia:Manual of Style/Dates and numbers
+Business intelligence->Data warehouse
+Business intelligence->Data mart
+Business intelligence->Decision support
+Business intelligence->Sir Henry Furnese, 1st Baronet
+Business intelligence->Siege of Namur (1695)
+Business intelligence->IBM
+Business intelligence->Hans Peter Luhn
+Business intelligence->Decision support system
+Business intelligence->Decision making
+Business intelligence->Data warehouse
+Business intelligence->Executive Information System
+Business intelligence->Online analytical processing
+Business intelligence->Gartner
+Business intelligence->Business reporting
+Business intelligence->Data analysis
+Business intelligence->Big data
+Business intelligence->Data exploration
+Business intelligence->Gartner
+Business intelligence->Pattern mining
+Business intelligence->Pivot table
+Business intelligence->Heat map
+Business intelligence->Data mining
+Business intelligence->Data warehouse
+Business intelligence->Forrester Research
+Business intelligence->Competitive intelligence
+Business intelligence->Decision making
+Business intelligence->Business analytics
+Business intelligence->Predictive modelling
+Business intelligence->Thomas H. Davenport
+Business intelligence->Babson College
+Business intelligence->Information retrieval
+Business intelligence->Business reporting
+Business intelligence->Online analytical processing
+Business intelligence->wikt:sponsor
+Business intelligence->Scope creep
+Business intelligence->Business Intelligence Competency Center
+Business intelligence->Data profiling
+Business intelligence->Usability
+Business intelligence->Business process
+Business intelligence->Organizational culture
+Business intelligence->Data warehouse
+Business intelligence->Consistency
+Business intelligence->Web portal
+Business intelligence->Bank regulation
+Business intelligence->Semi-structured data
+Business intelligence->Unstructured data
+Business intelligence->Columns
+Business intelligence->Row (database)
+Business intelligence->BLOB
+Business intelligence->Relational database
+Business intelligence->Metadata
+Business intelligence->Information extraction
+Business intelligence->Green computing
+Business intelligence->Social networking service
+Business intelligence->Data visualization
+Business intelligence->Mobile business intelligence
+Business intelligence->Predictive analytics
+Business intelligence->Composite application
+Business intelligence->Cloud computing
+Business intelligence->Multi-touch
+Business intelligence->Software-as-a-Service
+Descriptive statistics->Count noun
+Descriptive statistics->Summary statistic
+Descriptive statistics->Information
+Descriptive statistics->Mass noun
+Descriptive statistics->Statistical inference
+Descriptive statistics->Sample (statistics)
+Descriptive statistics->Statistical population
+Descriptive statistics->Probability theory
+Descriptive statistics->Nonparametric statistics
+Descriptive statistics->Sample size
+Descriptive statistics->Demographic
+Descriptive statistics->Average
+Descriptive statistics->Comorbidity
+Descriptive statistics->Central tendency
+Descriptive statistics->Statistical dispersion
+Descriptive statistics->Mean
+Descriptive statistics->Median
+Descriptive statistics->Mode (statistics)
+Descriptive statistics->Standard deviation
+Descriptive statistics->Variance
+Descriptive statistics->Kurtosis
+Descriptive statistics->Skewness
+Descriptive statistics->Quantitative research
+Descriptive statistics->Summary statistics
+Descriptive statistics->Percentage
+Descriptive statistics->Basketball
+Descriptive statistics->Grade point average
+Descriptive statistics->Statistics
+Descriptive statistics->Exploratory data analysis
+Descriptive statistics->Box plot
+Descriptive statistics->Univariate analysis
+Descriptive statistics->Frequency distribution
+Descriptive statistics->Mean
+Descriptive statistics->Median
+Descriptive statistics->Mode (statistics)
+Descriptive statistics->Range (statistics)
+Descriptive statistics->Quartiles
+Descriptive statistics->Variance
+Descriptive statistics->Standard deviation
+Descriptive statistics->Skewness
+Descriptive statistics->Kurtosis
+Descriptive statistics->Histograms
+Descriptive statistics->Stem-and-leaf display
+Descriptive statistics->Pearson's r
+Descriptive statistics->Spearman's rho
+Descriptive statistics->Covariance
+Descriptive statistics->Prediction
+Descriptive statistics->Z-score
+Descriptive statistics->Normal distribution
+Exploratory data analysis->Statistics
+Exploratory data analysis->Data analysis
+Exploratory data analysis->Data set
+Exploratory data analysis->Statistical model
+Exploratory data analysis->John Tukey
+Exploratory data analysis->Data analysis
+Exploratory data analysis->Computational statistics
+Exploratory data analysis->S (programming language)
+Exploratory data analysis->Bell Labs
+Exploratory data analysis->S-PLUS
+Exploratory data analysis->R (programming language)
+Exploratory data analysis->Outlier
+Exploratory data analysis->Trend estimation
+Exploratory data analysis->Pattern recognition
+Exploratory data analysis->Statistical theory
+Exploratory data analysis->Robust statistics
+Exploratory data analysis->Nonparametric statistics
+Exploratory data analysis->Statistical model
+Exploratory data analysis->Five number summary
+Exploratory data analysis->Extreme value
+Exploratory data analysis->Maximum
+Exploratory data analysis->Minimum
+Exploratory data analysis->Median
+Exploratory data analysis->Quartile
+Exploratory data analysis->Empirical distribution function
+Exploratory data analysis->Mean value
+Exploratory data analysis->Standard deviation
+Exploratory data analysis->Skewness
+Exploratory data analysis->Heavy-tailed distribution
+Exploratory data analysis->Probability distribution
+Exploratory data analysis->Resampling (statistics)
+Exploratory data analysis->Resampling (statistics)
+Exploratory data analysis->Bradley Efron
+Exploratory data analysis->Bootstrapping (statistics)
+Exploratory data analysis->Analytic function
+Exploratory data analysis->Statistical hypothesis testing
+Exploratory data analysis->Pierre-Simon Laplace
+Exploratory data analysis->Exponential family
+Exploratory data analysis->John W. Tukey
+Exploratory data analysis->Statistical hypothesis testing
+Exploratory data analysis->Data
+Exploratory data analysis->Systematic error
+Exploratory data analysis->Testing hypotheses suggested by the data
+Exploratory data analysis->Data mining
+Exploratory data analysis->Big data analytics
+Exploratory data analysis->Statistical graphics
+Exploratory data analysis->Quantity
+Exploratory data analysis->Open University
+Exploratory data analysis->Gottfried Noether
+Exploratory data analysis->Statistical inference
+Exploratory data analysis->Median test
+Exploratory data analysis->Heteroscedasticity
+Statistical hypothesis testing->Hypothesis
+Statistical hypothesis testing->Observable variable
+Statistical hypothesis testing->Statistical model
+Statistical hypothesis testing->Random variable
+Statistical hypothesis testing->Statistical inference
+Statistical hypothesis testing->Alternative hypothesis
+Statistical hypothesis testing->Statistically significant
+Statistical hypothesis testing->Null hypothesis
+Statistical hypothesis testing->Alternative hypothesis
+Statistical hypothesis testing->Type I and type II errors
+Statistical hypothesis testing->Statistical model
+Statistical hypothesis testing->Model selection
+Statistical hypothesis testing->Akaike information criterion
+Statistical hypothesis testing->Bayes factor
+Statistical hypothesis testing->Exploratory data analysis
+Statistical hypothesis testing->Frequentist inference
+Statistical hypothesis testing->Bayesian inference
+Statistical hypothesis testing->Null hypothesis
+Statistical hypothesis testing->Decision theory
+Statistical hypothesis testing->Alternative hypothesis
+Statistical hypothesis testing->Bayesian statistics
+Statistical hypothesis testing->Posterior probability
+Statistical hypothesis testing->Bayesian decision theory
+Statistical hypothesis testing->Decision theory
+Statistical hypothesis testing->Optimal decision
+Statistical hypothesis testing->Statistical power
+Statistical hypothesis testing->Sample size determination
+Statistical hypothesis testing->Fallacy
+Statistical hypothesis testing->Argument from ignorance
+Statistical hypothesis testing->Statistical power
+Statistical hypothesis testing->Design of experiments
+Statistical hypothesis testing->Ronald Fisher
+Statistical hypothesis testing->Proof by contradiction
+Statistical hypothesis testing->Bigfoot
+Statistical hypothesis testing->Statistical inference
+Statistical hypothesis testing->Effect size
+Statistical hypothesis testing->Scientific method
+Statistical hypothesis testing->Forecasting
+Statistical hypothesis testing->How to Lie with Statistics
+Statistical hypothesis testing->Publication bias
+Statistical hypothesis testing->Multiple testing
+Statistical hypothesis testing->Data mining
+Statistical hypothesis testing->Family wise error rate
+Statistical hypothesis testing->False discovery rate
+Statistical hypothesis testing->John Arbuthnot
+Statistical hypothesis testing->Pierre-Simon Laplace
+Statistical hypothesis testing->Sign test
+Statistical hypothesis testing->Non-parametric test
+Statistical hypothesis testing->Muriel Bristol
+Statistical hypothesis testing->Trial (law)
+Statistical hypothesis testing->Null hypothesis
+Statistical hypothesis testing->Error of the first kind
+Statistical hypothesis testing->Error of the second kind
+Statistical hypothesis testing->Clairvoyance
+Statistical hypothesis testing->Suit (cards)
+Statistical hypothesis testing->False positive
+Statistical hypothesis testing->False negative
+Statistical hypothesis testing->Geiger counter
+Statistical hypothesis testing->Poisson distribution
+Statistical hypothesis testing->Radioactive decay
+Statistical hypothesis testing->Statistical significance
+Statistical hypothesis testing->Sample (statistics)
+Statistical hypothesis testing->John Arbuthnot
+Statistical hypothesis testing->Pierre-Simon Laplace
+Statistical hypothesis testing->Human sex ratio
+Statistical hypothesis testing->Karl Pearson
+Statistical hypothesis testing->P-value
+Statistical hypothesis testing->Pearson's chi-squared test
+Statistical hypothesis testing->William Sealy Gosset
+Statistical hypothesis testing->Student's t-distribution
+Statistical hypothesis testing->Ronald Fisher
+Statistical hypothesis testing->Null hypothesis
+Statistical hypothesis testing->Analysis of variance
+Statistical hypothesis testing->Statistical significance
+Statistical hypothesis testing->Jerzy Neyman
+Statistical hypothesis testing->Egon Pearson
+Statistical hypothesis testing->Principle of indifference
+Statistical hypothesis testing->Fiducial inference
+Statistical hypothesis testing->Neyman–Pearson lemma
+Statistical hypothesis testing->Detection theory
+Statistical hypothesis testing->Have one's cake and eat it too
+Statistical hypothesis testing->Test statistic
+Statistical hypothesis testing->Null hypothesis
+Statistical hypothesis testing->Objectivity (science)
+Statistical hypothesis testing->Strawman
+Statistical hypothesis testing->Paul Meehl
+Statistical hypothesis testing->Epistemological
+Statistical hypothesis testing->Pierre Laplace
+Statistical hypothesis testing->Karl Pearson
+Statistical hypothesis testing->Chi squared test
+Statistical hypothesis testing->Walter Frank Raphael Weldon
+Statistical hypothesis testing->Karl Pearson
+Statistical hypothesis testing->Contingency table
+Statistical hypothesis testing->Statistical independence
+Statistical hypothesis testing->Principle of indifference
+Statistical hypothesis testing->Ronald Fisher
+Statistical hypothesis testing->Neyman–Pearson lemma
+Statistical hypothesis testing->Likelihood-ratio test
+Statistical hypothesis testing->Philosophic burden of proof
+Statistical hypothesis testing->Falsifiability
+Statistical hypothesis testing->John Tukey
+Statistical hypothesis testing->Statistical process control
+Statistical hypothesis testing->Detection theory
+Statistical hypothesis testing->Decision theory
+Statistical hypothesis testing->Game theory
+Statistical hypothesis testing->Sample size determination
+Statistical hypothesis testing->Wikipedia:Citation needed
+Statistical hypothesis testing->Wikipedia:Citation needed
+Statistical hypothesis testing->Confidence interval
+Statistical hypothesis testing->Meta-analysis
+Statistical hypothesis testing->Bayesian inference
+Statistical hypothesis testing->Parameter estimation
+Statistical hypothesis testing->Priors
+Statistical hypothesis testing->Student's t-test
+Statistical hypothesis testing->Bayes factors
+Statistical hypothesis testing->Objectivity (science)
+Statistical hypothesis testing->Probability
+Statistical hypothesis testing->Hypothesis
+Statistical hypothesis testing->Ronald Fisher
+Statistical hypothesis testing->Neyman–Pearson lemma
+Statistical hypothesis testing->Bayes' Theorem
+Statistical hypothesis testing->Subjectivity
+Statistical hypothesis testing->Prior probability
+Statistical hypothesis testing->P-value
+Statistical hypothesis testing->Inferential statistics
+Statistical hypothesis testing->David Hume
+Statistical hypothesis testing->Probability
+Statistical hypothesis testing->Philosophy of science
+Statistical hypothesis testing->Correlation does not imply causation
+Statistical hypothesis testing->Design of experiments
+Statistical hypothesis testing->Wikipedia:Citation needed
+Statistical hypothesis testing->Wikipedia:Citation needed
+Statistical hypothesis testing->Bible Analyzer
+Hypothesis->Explanation
+Hypothesis->Phenomenon
+Hypothesis->Scientific method
+Hypothesis->Testable
+Hypothesis->Scientist
+Hypothesis->Observation
+Hypothesis->Theory
+Hypothesis->Scientific theory
+Hypothesis->Working hypothesis
+Hypothesis->Research
+Hypothesis->Formal logic
+Hypothesis->Antecedent (logic)
+Hypothesis->Proposition
+Hypothesis->Consequent
+Hypothesis->wikt:assumption
+Hypothesis->Counterfactual conditional
+Hypothesis->wikt:what if
+Hypothesis->Hypothesis (drama)
+Hypothesis->Plot (narrative)
+Hypothesis->Theatre of ancient Greece
+Hypothesis->Ancient Greek
+Hypothesis->wikt:ὑπόθεσις
+Hypothesis->Plato
+Hypothesis->Meno
+Hypothesis->Socrates
+Hypothesis->Virtue
+Hypothesis->Calculation
+Hypothesis->Robert Bellarmine
+Hypothesis->Galileo Galilei
+Hypothesis->Mathematical model
+Hypothesis->Existential quantification
+Hypothesis->Universal quantification
+Hypothesis->Authentication
+Hypothesis->Falsifiability
+Hypothesis->Experiment
+Hypothesis->Prediction
+Hypothesis->Reasoning
+Hypothesis->Deductive reasoning
+Hypothesis->Experiment
+Hypothesis->Laboratory
+Hypothesis->Nature
+Hypothesis->Karl Popper
+Hypothesis->Falsificationism
+Hypothesis->Verificationism
+Hypothesis->Confirmation holism
+Hypothesis->Scientific method
+Hypothesis->Crucial experiment
+Hypothesis->Thought experiment
+Hypothesis->Experience
+Hypothesis->Educated guess
+Hypothesis->Working hypothesis
+Hypothesis->Exploratory research
+Hypothesis->Conceptual framework
+Hypothesis->Imre Lakatos
+Hypothesis->Paul Feyerabend
+Hypothesis->Concept
+Hypothesis->Deductive-nomological model
+Hypothesis->Proposition
+Hypothesis->Conceptual framework
+Hypothesis->Conceptual framework
+Hypothesis->Carl Gustav Hempel
+Hypothesis->Conceptual framework
+Hypothesis->Correlation
+Hypothesis->Statistical test
+Hypothesis->Null hypothesis
+Hypothesis->Alternative hypothesis
+Hypothesis->Sample size
+Predictive analytics->Predictive modelling
+Predictive analytics->Machine learning
+Predictive analytics->Data mining
+Predictive analytics->Pattern detection
+Predictive analytics->Decision making
+Predictive analytics->Actuarial science
+Predictive analytics->Marketing
+Predictive analytics->Financial services
+Predictive analytics->Insurance
+Predictive analytics->Telecommunications
+Predictive analytics->Retail
+Predictive analytics->Travel
+Predictive analytics->Economic mobility
+Predictive analytics->Healthcare
+Predictive analytics->Child protection
+Predictive analytics->Pharmaceutical company
+Predictive analytics->Capacity planning
+Predictive analytics->Wikipedia:Citation needed
+Predictive analytics->Social networking service
+Predictive analytics->Credit scoring
+Predictive analytics->Financial services
+Predictive analytics->Credit history
+Predictive analytics->Loan application
+Predictive analytics->Information extraction
+Predictive analytics->Trend analysis
+Predictive analytics->Explanatory variable
+Predictive analytics->Prescriptive analytics
+Predictive analytics->Wikipedia:Citation needed
+Predictive analytics->Industrial Internet Consortium
+Predictive analytics->Predictive modeling
+Predictive analytics->Forecasting
+Predictive analytics->Predictive modeling
+Predictive analytics->Decision model
+Predictive analytics->Customer relationship management
+Predictive analytics->Touch point
+Predictive analytics->Customer lifecycle management
+Predictive analytics->Customer acquisition management
+Predictive analytics->Cross-selling
+Predictive analytics->Customer retention
+Predictive analytics->Hillsborough County, Florida
+Predictive analytics->Clinical decision support system
+Predictive analytics->Neurodegeneration
+Predictive analytics->Parkinson's disease
+Predictive analytics->Alzheimer's disease
+Predictive analytics->Huntington's disease
+Predictive analytics->Amyotrophic lateral sclerosis
+Predictive analytics->Business record
+Predictive analytics->Cross-selling
+Predictive analytics->Customer satisfaction
+Predictive analytics->Customer attrition
+Predictive analytics->Marketing
+Predictive analytics->Cost per order
+Predictive analytics->Cost per action
+Predictive analytics->Fraud
+Predictive analytics->Financial transaction
+Predictive analytics->Identity theft
+Predictive analytics->Insurance claim
+Predictive analytics->Credit card fraud
+Predictive analytics->Mark Nigrini
+Predictive analytics->Internal Revenue Service
+Predictive analytics->Tax fraud
+Predictive analytics->Wikipedia:Manual of Style/Dates and numbers
+Predictive analytics->Heuristics
+Predictive analytics->Capital asset pricing model
+Predictive analytics->Probabilistic risk assessment
+Predictive analytics->Delphi method
+Predictive analytics->Underwriting
+Predictive analytics->Underwrite
+Predictive analytics->Default (finance)
+Predictive analytics->Bankruptcy
+Predictive analytics->Big data
+Predictive analytics->Database management
+Predictive analytics->Web log
+Predictive analytics->RFID
+Predictive analytics->Sensor network
+Predictive analytics->Social network
+Predictive analytics->Massive parallel processing
+Predictive analytics->Hadoop
+Predictive analytics->MapReduce
+Predictive analytics->In-database processing
+Predictive analytics->Text analytics
+Predictive analytics->Unstructured data
+Predictive analytics->Regression analysis
+Predictive analytics->Linear regression model
+Predictive analytics->Ordinary least squares
+Predictive analytics->Gauss–Markov theorem
+Predictive analytics->Logistic regression
+Predictive analytics->Multinomial logit
+Predictive analytics->Probit
+Predictive analytics->Binary numeral system
+Predictive analytics->Wald test
+Predictive analytics->Likelihood-ratio test
+Predictive analytics->Binary logit model
+Predictive analytics->Multinomial logit model
+Predictive analytics->Random multinomial logit
+Predictive analytics->Probit model
+Predictive analytics->Logistic distribution
+Predictive analytics->Probit model
+Predictive analytics->Logit model
+Predictive analytics->Logistic distribution
+Predictive analytics->Odds ratio
+Predictive analytics->Time series
+Predictive analytics->Autoregressive model
+Predictive analytics->Moving-average model
+Predictive analytics->Box–Jenkins
+Predictive analytics->Autoregressive moving average model
+Predictive analytics->Autoregressive integrated moving average
+Predictive analytics->Autoregressive conditional heteroskedasticity
+Predictive analytics->Survival analysis
+Predictive analytics->Linear regression
+Predictive analytics->Normal distribution
+Predictive analytics->Hazard rate
+Predictive analytics->Kaplan-Meier
+Predictive analytics->Optimal discriminant analysis
+Predictive analytics->Non-parametric statistics
+Predictive analytics->Decision tree learning
+Predictive analytics->Decision trees
+Predictive analytics->Random forests
+Predictive analytics->Multivariate adaptive regression splines
+Predictive analytics->Non-parametric statistics
+Predictive analytics->Piecewise
+Predictive analytics->Linear regression
+Predictive analytics->Regression spline
+Predictive analytics->Basis function
+Predictive analytics->Overfit
+Predictive analytics->Machine learning
+Predictive analytics->Medical diagnostics
+Predictive analytics->Credit card fraud
+Predictive analytics->Face recognition
+Predictive analytics->Speech recognition
+Predictive analytics->Stock market
+Predictive analytics->Cognition
+Predictive analytics->Neural networks
+Predictive analytics->Nonlinearity
+Predictive analytics->Model (abstract)
+Predictive analytics->Time series
+Predictive analytics->Statistical classification
+Predictive analytics->Control theory
+Predictive analytics->Finance
+Predictive analytics->Cognitive psychology
+Predictive analytics->Cognitive neuroscience
+Predictive analytics->Medicine
+Predictive analytics->Engineering
+Predictive analytics->Physics
+Predictive analytics->Supervised learning
+Predictive analytics->Unsupervised learning
+Predictive analytics->Backpropagation
+Predictive analytics->Conjugate gradient method
+Predictive analytics->Radial basis function
+Predictive analytics->Perceptron
+Predictive analytics->Self-organizing map
+Predictive analytics->Hopfield network
+Predictive analytics->Multilayer perceptron
+Predictive analytics->Radial basis function
+Predictive analytics->Neural network
+Predictive analytics->Sigmoid function
+Predictive analytics->Feed forward (control)
+Predictive analytics->Perceptron
+Predictive analytics->Support vector machine
+Predictive analytics->Naive Bayes classifier
+Predictive analytics->Curse of dimensionality
+Predictive analytics->K-nearest neighbors algorithm
+Predictive analytics->Iid
+Predictive analytics->Geospatial predictive modeling
+Predictive analytics->Wikipedia:Citation needed
+Predictive analytics->Wikipedia:Citation needed
+Predictive analytics->Open-source software
+Predictive analytics->Prognostics and health management
+Predictive analytics->MATLAB
+Predictive analytics->LabVIEW
+Predictive analytics->Predictive Model Markup Language
+Predictive analytics->Gary King (political scientist)
+Text mining->Information
+Text mining->Plain text
+Text mining->Pattern recognition
+Text mining->Database
+Text mining->Structured data
+Text mining->Relevance (information retrieval)
+Text mining->Novelty (patent)
+Text mining->Text categorization
+Text mining->Text clustering
+Text mining->Concept mining
+Text mining->Sentiment analysis
+Text mining->Document summarization
+Text mining->Named entity recognition
+Text mining->Information retrieval
+Text mining->Lexical analysis
+Text mining->Pattern recognition
+Text mining->Tag (metadata)
+Text mining->Annotation
+Text mining->Information extraction
+Text mining->Data mining
+Text mining->Information visualization
+Text mining->Predictive analytics
+Text mining->Natural language processing
+Text mining->Natural language
+Text mining->Predictive classification
+Text mining->Linguistics
+Text mining->Statistical
+Text mining->Machine learning
+Text mining->Business intelligence
+Text mining->Exploratory data analysis
+Text mining->Research
+Text mining->Ronen Feldman (page does not exist)
+Text mining->Business rule
+Text mining->Business intelligence
+Text mining->Security appliance
+Text mining->Internet news
+Text mining->Blog
+Text mining->National security
+Text mining->Encryption
+Text mining->Decryption
+Text mining->PubGene
+Text mining->GoPubMed
+Text mining->IBM
+Text mining->Microsoft
+Text mining->Information Awareness Office
+Text mining->Tribune Company
+Text mining->Customer relationship management
+Text mining->Predictive analytics
+Text mining->Customer attrition
+Text mining->Sentiment analysis
+Text mining->Affect (psychology)
+Text mining->WordNet
+Text mining->ConceptNet
+Text mining->Database
+Text mining->Index (database)
+Text mining->Nature (journal)
+Text mining->National Institutes of Health
+Text mining->Document Type Definition
+Text mining->Content analysis
+Text mining->Big data
+Text mining->Gender bias
+Text mining->Readability
+Text mining->Commercial software
+Text mining->Open source
+Text mining->List of text mining software
+Text mining->Database Directive
+Text mining->Web mining
+Text mining->Hargreaves review
+Text mining->Limitations and exceptions to copyright
+Text mining->Copyright law of Japan
+Text mining->Copyright Directive
+Text mining->European Commission
+Text mining->Data mining
+Text mining->Open access
+Text mining->Fair use
+Text mining->Google Book Search Settlement Agreement
+Text mining->Semantic web
+Text mining->Counter-intelligence
+Text mining->Intelligence analyst
+Text mining->Spam filter
+Text mining->Market sentiment
+Unstructured data->Data model
+Unstructured data->Plain text
+Unstructured data->Ambiguities
+Unstructured data->Annotation
+Unstructured data->Tag (metadata)
+Unstructured data->Merrill Lynch
+Unstructured data->Zettabytes
+Unstructured data->Business intelligence
+Unstructured data->Computer science
+Unstructured data->Hans Peter Luhn
+Unstructured data->SAS (software)
+Unstructured data->Singular Value Decomposition
+Unstructured data->Dimensional Analysis
+Unstructured data->Space (mathematics)
+Unstructured data->Machine learning
+Unstructured data->Sentiment analysis
+Unstructured data->Voice of the customer
+Unstructured data->Big Data
+Unstructured data->Predictive analytics
+Unstructured data->Root cause analysis
+Unstructured data->Data mining
+Unstructured data->Natural language processing
+Unstructured data->Text analytics
+Unstructured data->Pattern recognition
+Unstructured data->Tag (metadata)
+Unstructured data->Part-of-speech tagging
+Unstructured data->Text mining
+Unstructured data->UIMA
+Unstructured data->Morphology (linguistics)
+Unstructured data->Metadata
+Unstructured data->Health record
+Unstructured data->Sound
+Unstructured data->Video
+Unstructured data->Analog device
+Unstructured data->E-mail
+Unstructured data->Web page
+Unstructured data->Word-processor
+Unstructured data->HTML
+Unstructured data->XHTML
+Unstructured data->Electronic document
+Unstructured data->Content management
+Unstructured data->Document management
+Unstructured data->Text corpus
+Unstructured data->Search engines
+Unstructured data->OpenText
+Unstructured data->Sailpoint (page does not exist)
+Unstructured data->Basis Technology Corp.
+Unstructured data->NetOwl
+Unstructured data->LogRhythm
+Unstructured data->ZL Technologies
+Unstructured data->SAS (software)
+Unstructured data->Provalis Research
+Unstructured data->Inxight
+Unstructured data->SPSS
+Unstructured data->Watson (computer)
+Unstructured data->Attensity
+Unstructured data->Megaputer Intelligence
+Unstructured data->Clarabridge
+Unstructured data->Graphext (page does not exist)
+Unstructured data->Stratifyd (page does not exist)
+Unstructured data->Medallia
+Unstructured data->General Sentiment
+Unstructured data->Sysomos
+Unstructured data->Smartlogic
+Unstructured data->Innovative Routines International
+Unstructured data->Object storage
+Unstructured data->Scality
+Unstructured data->EMC Elastic Cloud Storage
+Unstructured data->Ceph (software)
+Data integration->Data
+Data integration->Database
+Data integration->Bioinformatics
+Data integration->Big data
+Data integration->Information explosion
+Data integration->Heterogeneous
+Data integration->Information silo
+Data integration->University of Minnesota
+Data integration->IPUMS
+Data integration->Data warehousing
+Data integration->Extract, transform, load
+Data integration->Logical schema
+Data integration->Coupling (computer science)
+Data integration->Extract, transform, load
+Data integration->Wikipedia:Citation needed
+Data integration->Data mediation
+Data integration->Service-oriented architecture
+Data integration->Global As View (page does not exist)
+Data integration->Local As View (page does not exist)
+Data integration->Semantic integration
+Data integration->Semantic
+Data integration->Ontology (computer science)
+Data integration->Ontology-based data integration
+Data integration->Data modeling
+Data integration->Data architecture
+Data integration->Metadata
+Data integration->Data hub
+Data integration->Data lake
+Data integration->Web application
+Data integration->Materialized view
+Data integration->Virtual database
+Data integration->Extract, transform, load
+Data integration->Virtual database
+Data integration->Data virtualization
+Data integration->Hub and spoke
+Data integration->Extract, transform, load
+Data integration->First-order logic
+Data integration->JDBC
+Data integration->Triple (mathematics)
+Data integration->Formal language
+Data integration->Alphabet (computer science)
+Data integration->Relational database
+Data integration->Functional predicate
+Data integration->View (database)
+Data integration->Query optimizer
+Data integration->View (database)
+Data integration->Database query language
+Data integration->Datalog
+Data integration->Logic programming
+Data integration->Conjunctive query
+Data integration->SQL
+Data integration->View (database)
+Data integration->AQUV (page does not exist)
+Data integration->NP-complete
+Data integration->Global warming
+Data integration->Invasive species
+Data integration->Resource depletion
+Data integration->Meta-analysis
+Data integration->Metadata standards
+Data integration->National Science Foundation
+Data integration->Datanet
+Data integration->Cyberinfrastructure
+Data integration->Datanet
+Data integration->DataONE
+Data integration->University of New Mexico
+Data integration->Johns Hopkins University
+Data integration->Margaret Hedstrom
+Data integration->University of Michigan
+Data integration->University of North Carolina
+Data integration->Steven Ruggles
+Data integration->University of Minnesota
+Data integration->Research Data Alliance
+Data integration->OpenPHACTS
+Data integration->European Union
+Data integration->Innovative Medicines Initiative
+Data integration->European Bioinformatics Institute
+Data integration->Royal Society of Chemistry
+Data integration->UniProt
+Data integration->WikiPathways
+Data integration->DrugBank
+Wikipedia:Manual of Style/Words to watch->Wikipedia:Wikipedia is not censored
+Wikipedia:Manual of Style/Words to watch->Wikipedia:NPOV
+Wikipedia:Manual of Style/Words to watch->Wikipedia:NOR
+Wikipedia:Manual of Style/Words to watch->Wikipedia:V
+Wikipedia:Manual of Style/Words to watch->Wikipedia:MOS
+Wikipedia:Manual of Style/Words to watch->Wikipedia:Template messages/Cleanup
+Wikipedia:Manual of Style/Words to watch->Wikipedia:Cleanup
+Wikipedia:Manual of Style/Words to watch->Wikipedia:What Wikipedia is not
+Wikipedia:Manual of Style/Words to watch->Loaded language
+Wikipedia:Manual of Style/Words to watch->Loaded language
+Wikipedia:Manual of Style/Words to watch->Cult
+Wikipedia:Manual of Style/Words to watch->Racist
+Wikipedia:Manual of Style/Words to watch->Terrorist
+Wikipedia:Manual of Style/Words to watch->Freedom fighter
+Wikipedia:Manual of Style/Words to watch->Perversion
+Wikipedia:Manual of Style/Words to watch->Wikipedia:INTEXT
+Wikipedia:Manual of Style/Words to watch->Myth
+Wikipedia:Manual of Style/Words to watch->Pseudo-
+Wikipedia:Manual of Style/Words to watch->List of scandals with "-gate" suffix
+Wikipedia:Manual of Style/Words to watch->Gamergate controversy
+Wikipedia:Manual of Style/Words to watch->Wikipedia:FRINGE
+Wikipedia:Manual of Style/Words to watch->Wikipedia:NPOV
+Wikipedia:Manual of Style/Words to watch->Wikipedia:FRINGE
+Wikipedia:Manual of Style/Words to watch->Weasel word
+Wikipedia:Manual of Style/Words to watch->Wikipedia:LEAD
+Wikipedia:Manual of Style/Words to watch->Topic sentence
+Wikipedia:Manual of Style/Words to watch->Wikipedia:RS
+Wikipedia:Manual of Style/Words to watch->Wikipedia:OR
+Wikipedia:Manual of Style/Words to watch->Wikipedia:NPOV
+Wikipedia:Manual of Style/Words to watch->Irony
+Wikipedia:Manual of Style/Words to watch->Template:Weasel
+Wikipedia:Manual of Style/Words to watch->Template:By whom
+Wikipedia:Manual of Style/Words to watch->Scare quotes
+Wikipedia:Manual of Style/Words to watch->MOS:TEXT
+Wikipedia:Manual of Style/Words to watch->Wikipedia:Neutral point of view
+Wikipedia:Manual of Style/Words to watch->Wikipedia:SYNTH
+Wikipedia:Manual of Style/Words to watch->Loaded term
+Wikipedia:Manual of Style/Words to watch->Wikipedia:BLP
+Wikipedia:Manual of Style/Words to watch->Culpability
+Wikipedia:Manual of Style/Words to watch->Euphemism
+Wikipedia:Manual of Style/Words to watch->Civilian casualties
+Wikipedia:Manual of Style/Words to watch->Collateral damage
+Wikipedia:Manual of Style/Words to watch->Cliché
+Wikipedia:Manual of Style/Words to watch->Idiom
+Wikipedia:Manual of Style/Words to watch->Iceberg
+Wikipedia:Manual of Style/Words to watch->Wiktionary
+Wikipedia:Manual of Style/Words to watch->wikt:Category:English idioms
+Wikipedia:Manual of Style/Words to watch->Wikipedia:As of
+Wikipedia:Manual of Style/Words to watch->Wikipedia:SEASON
+Wikipedia:Manual of Style/Words to watch->President of the United States
+Wikipedia:Manual of Style/Words to watch->Donald Trump
+Wikipedia:Manual of Style/Words to watch->Neologism
+Wikipedia:Manual of Style/Words to watch->Wikipedia:NPOV
+Wikipedia:Manual of Style/Words to watch->Wikipedia:NOTCENSORED
+Wikipedia:Manual of Style/Words to watch->Wikipedia:Five pillars
+Wikipedia:Manual of Style/Words to watch->Wikipedia:V
+Wikipedia:Manual of Style/Words to watch->Vulgarity
+Wikipedia:Manual of Style/Words to watch->Obscene
+Wikipedia:Manual of Style/Words to watch->Profanity
+Wikipedia:Please clarify->Wikipedia:Template messages
+Wikipedia:Please clarify->Parameters (computer science)
+Data visualization->Visual communication
+Data visualization->Visual system
+Data visualization->Data
+Data visualization->Statistical graphics
+Data visualization->Plot (graphics)
+Data visualization->Infographic
+Data visualization->Causality
+Data visualization->Descriptive statistics
+Data visualization->Grounded theory
+Data visualization->Big data
+Data visualization->Internet of things
+Data visualization->Data science
+Data visualization->Data scientists
+Data visualization->Data analysis
+Data visualization->Data science
+Data visualization->Fernanda Viegas
+Data visualization->Martin M. Wattenberg
+Data visualization->Information graphics
+Data visualization->Information visualization
+Data visualization->Scientific visualization
+Data visualization->Exploratory data analysis
+Data visualization->Statistical graphics
+Data visualization->John Tukey
+Data visualization->Edward Tufte
+Data visualization->Edward Tufte
+Data visualization->Misleading graphs
+Data visualization->Chartjunk
+Data visualization->Congressional Budget Office
+Data visualization->Exploratory data analysis
+Data visualization->Pre-attentive processing
+Data visualization->Data exploration
+Data visualization->York University
+Data visualization->Lascaux
+Data visualization->Pleistocene
+Data visualization->History of ancient numeral systems
+Data visualization->Quipu
+Data visualization->Marshall Islands stick chart
+Data visualization->Turin Papyrus Map
+Data visualization->Linear B
+Data visualization->Mycenae
+Data visualization->Claudius Ptolemy
+Data visualization->Tycho Brahe
+Data visualization->René Descartes
+Data visualization->Pierre de Fermat
+Data visualization->Blaise Pascal
+Data visualization->William Playfair
+Data visualization->Jacques Bertin
+Data visualization->SAS (software)
+Data visualization->SOFA Statistics
+Data visualization->R (programming language)
+Data visualization->Minitab
+Data visualization->D3.js
+Data visualization->Python (programming language)
+Data visualization->JavaScript
+Data visualization->The Data Incubator
+Data visualization->General Assembly
+Data visualization->Information graphics
+Data visualization->Statistical graphics
+Data visualization->Thematic map
+Data visualization->Graphic design
+Data visualization->Computer science
+Data visualization->Business Intelligence
+Data visualization->Information discovery
+Data visualization->Organizational psychology
+Data visualization->Change management
+Process theory->Variance
+Process theory->Dependent variable
+Process theory->Independent variable
+Process theory->Natural Selection
+Process theory->Continental Drift
+Process theory->Nitrogen Cycle
+Process theory->Archetype
+John Tukey->Foreign Member of the Royal Society
+John Tukey->Help:IPA/English
+John Tukey->Mathematician
+John Tukey->Cooley–Tukey FFT algorithm
+John Tukey->Box plot
+John Tukey->Tukey's range test
+John Tukey->Tukey lambda distribution
+John Tukey->Tukey's test of additivity
+John Tukey->Teichmüller–Tukey lemma
+John Tukey->Bit
+John Tukey->New Bedford, Massachusetts
+John Tukey->Bachelor of Arts
+John Tukey->M.Sc.
+John Tukey->Brown University
+John Tukey->Princeton University
+John Tukey->Ph.D.
+John Tukey->Mathematics
+John Tukey->World War II
+John Tukey->Samuel S. Wilks
+John Tukey->William Gemmell Cochran
+John Tukey->Bell Labs
+John Tukey->Civil society
+John Tukey->American Statistical Association
+John Tukey->Kinsey Reports
+John Tukey->National Medal of Science
+John Tukey->IEEE Medal of Honor
+John Tukey->Fast Fourier transform
+John Tukey->Algorithm
+John Tukey->New Brunswick, New Jersey
+John Tukey->Statistics
+John Tukey->James Cooley
+John Tukey->Cooley–Tukey FFT algorithm
+John Tukey->Resampling (statistics)
+John Tukey->Box plot
+John Tukey->Tukey's range test
+John Tukey->Tukey lambda distribution
+John Tukey->Tukey's test of additivity
+John Tukey->Tukey's lemma
+John Tukey->Trimean
+John Tukey->Median
+John Tukey->Linear regression
+John Tukey->Jerome H. Friedman
+John Tukey->Projection pursuit
+John Tukey->Exploratory data analysis
+John Tukey->Confirmatory data analysis
+John Tukey->Natural science
+John Tukey->Uncomfortable science
+John Tukey->Wikipedia:Citation needed
+John Tukey->John von Neumann
+John Tukey->Bit
+John Tukey->Claude Shannon
+John Tukey->JSTOR
+John Tukey->OED
+Data model->Data
+Data model->Data modeling
+Data model->Data structure
+Data model->Programming language
+Data model->Function model
+Data model->Enterprise model
+Data model->Unstructured data
+Data model->Information system
+Data model->Word processor
+Data model->Email
+Data model->Information system
+Data model->ANSI
+Data model->Conceptual schema
+Data model->Logical data model
+Data model->Physical data model
+Data model->Data processing
+Data model->Systems analyst
+Data model->Computer hardware
+Data model->CODASYL
+Data model->Information algebra
+Data model->Management information system
+Data model->Database system
+Data model->Integrated Data Store
+Data model->Charles Bachman
+Data model->Network data model
+Data model->Hierarchical data model
+Data model->Edgar F. Codd
+Data model->Relational model
+Data model->First-order logic
+Data model->Entity relationship model
+Data model->Peter Chen
+Data model->Information system
+Data model->Requirements analysis
+Data model->Information
+Data model->Database
+Data model->Ontology (computer science)
+Data model->Universe of discourse
+Data model->G.M. Nijssen
+Data model->Terry Halpin
+Data model->Object-Role Modeling
+Data model->Object-oriented
+Data model->Flat file database
+Data model->Hierarchical model
+Data model->Network model
+Data model->Relational model
+Data model->Star schema
+Data model->Diagram
+Data model->Conceptual schema
+Data model->Entity class
+Data model->Relational model
+Data model->Integrity constraints
+Data model->Box
+Data model->Arrow
+Data model->Entity-relationship model
+Data model->Attribute (computing)
+Data model->Cardinality (data modeling)
+Data model->Entity-relationship model
+Data model->Conceptual schema
+Data model->Semantic data model
+Data model->Software engineering
+Data model->Attribute (computing)
+Data model->Geographic information system
+Data model->Conceptual data model
+Data model->Database management system
+Data model->Hierarchical model
+Data model->Network model
+Data model->Relational model
+Data model->Requirements analysis
+Data model->Three schema approach
+Data model->Architecture domain
+Data model->Enterprise architecture
+Data model->Solution architecture
+Data model->Software engineering
+Data model->Requirement
+Data model->Conceptual data model
+Data model->Requirements
+Data model->Activity diagram
+Data model->Database design
+Data model->Database management system
+Data model->Physical data model
+Data model->wiktionary:synthesis
+Data model->wiktionary:Analysis
+Data model->Systems analyst
+Data model->Systems analyst
+Data model->Relational model
+Data model->Adaptive system
+Data model->Artificial neural network
+Data model->Algorithmic efficiency
+Data model->Algorithm
+Data model->Abstract data type
+Data model->Abstraction
+Data model->Abstract entity
+Data model->Hash table
+Data model->Linked list
+Data model->Stack (data structure)
+Data model->Relational model
+Data model->Relation (mathematics)
+Data model->First-order logic
+Data model->Relational algebra
+Data model->Tuple calculus
+Data model->Domain calculus
+Data model->Logical data model
+Data model->Entity-relationship model
+Data model->Relational model
+Data model->Relational database
+Data model->Information system
+Data model->Flowchart
+Data model->Data visualization
+Data model->Data processing
+Data model->Larry Constantine
+Data model->System Context Diagram
+Data model->Operation (mathematics)
+Data model->Semantic data model
+Data model->Facility Information Model
+Data model->Building information modeling
+Data model->Object model
+Data model->Unified Modeling Language
+Data model->Entity-relationship model
+Data model->XML schema
+Data model->Document Object Model
+Data model->Web page
+Data model->Web browser
+Data model->Scripting language
+Data model->Microsoft Excel
+Data model->ASCOM (standard)
+Data model->Computing
+Data model->Object (computer science)
+Data model->Programming language
+Data model->Methodology
+Data model->Java (programming language)
+Data model->Component Object Model
+Data model->Object-modeling technique
+Data model->Class (computer science)
+Data model->Message (computer science)
+Data model->Inheritance (computer science)
+Data model->Polymorphism in object-oriented programming
+Data model->Information hiding
+Data model->Formal semantics of programming languages
+Data model->Conceptual modeling
+Data model->Systems analysis
+Data model->Modeling language
+Data model->Software engineering
+Data model->Visual language
+Data model->Artifact (software development)
+Data model->Functional model
+Data model->Database model
+Exploratory data analysis->Statistics
+Exploratory data analysis->Data analysis
+Exploratory data analysis->Data set
+Exploratory data analysis->Statistical model
+Exploratory data analysis->John Tukey
+Exploratory data analysis->Data analysis
+Exploratory data analysis->Computational statistics
+Exploratory data analysis->S (programming language)
+Exploratory data analysis->Bell Labs
+Exploratory data analysis->S-PLUS
+Exploratory data analysis->R (programming language)
+Exploratory data analysis->Outlier
+Exploratory data analysis->Trend estimation
+Exploratory data analysis->Pattern recognition
+Exploratory data analysis->Statistical theory
+Exploratory data analysis->Robust statistics
+Exploratory data analysis->Nonparametric statistics
+Exploratory data analysis->Statistical model
+Exploratory data analysis->Five number summary
+Exploratory data analysis->Extreme value
+Exploratory data analysis->Maximum
+Exploratory data analysis->Minimum
+Exploratory data analysis->Median
+Exploratory data analysis->Quartile
+Exploratory data analysis->Empirical distribution function
+Exploratory data analysis->Mean value
+Exploratory data analysis->Standard deviation
+Exploratory data analysis->Skewness
+Exploratory data analysis->Heavy-tailed distribution
+Exploratory data analysis->Probability distribution
+Exploratory data analysis->Resampling (statistics)
+Exploratory data analysis->Resampling (statistics)
+Exploratory data analysis->Bradley Efron
+Exploratory data analysis->Bootstrapping (statistics)
+Exploratory data analysis->Analytic function
+Exploratory data analysis->Statistical hypothesis testing
+Exploratory data analysis->Pierre-Simon Laplace
+Exploratory data analysis->Exponential family
+Exploratory data analysis->John W. Tukey
+Exploratory data analysis->Statistical hypothesis testing
+Exploratory data analysis->Data
+Exploratory data analysis->Systematic error
+Exploratory data analysis->Testing hypotheses suggested by the data
+Exploratory data analysis->Data mining
+Exploratory data analysis->Big data analytics
+Exploratory data analysis->Statistical graphics
+Exploratory data analysis->Quantity
+Exploratory data analysis->Open University
+Exploratory data analysis->Gottfried Noether
+Exploratory data analysis->Statistical inference
+Exploratory data analysis->Median test
+Exploratory data analysis->Heteroscedasticity
+Descriptive statistics->Count noun
+Descriptive statistics->Summary statistic
+Descriptive statistics->Information
+Descriptive statistics->Mass noun
+Descriptive statistics->Statistical inference
+Descriptive statistics->Sample (statistics)
+Descriptive statistics->Statistical population
+Descriptive statistics->Probability theory
+Descriptive statistics->Nonparametric statistics
+Descriptive statistics->Sample size
+Descriptive statistics->Demographic
+Descriptive statistics->Average
+Descriptive statistics->Comorbidity
+Descriptive statistics->Central tendency
+Descriptive statistics->Statistical dispersion
+Descriptive statistics->Mean
+Descriptive statistics->Median
+Descriptive statistics->Mode (statistics)
+Descriptive statistics->Standard deviation
+Descriptive statistics->Variance
+Descriptive statistics->Kurtosis
+Descriptive statistics->Skewness
+Descriptive statistics->Quantitative research
+Descriptive statistics->Summary statistics
+Descriptive statistics->Percentage
+Descriptive statistics->Basketball
+Descriptive statistics->Grade point average
+Descriptive statistics->Statistics
+Descriptive statistics->Exploratory data analysis
+Descriptive statistics->Box plot
+Descriptive statistics->Univariate analysis
+Descriptive statistics->Frequency distribution
+Descriptive statistics->Mean
+Descriptive statistics->Median
+Descriptive statistics->Mode (statistics)
+Descriptive statistics->Range (statistics)
+Descriptive statistics->Quartiles
+Descriptive statistics->Variance
+Descriptive statistics->Standard deviation
+Descriptive statistics->Skewness
+Descriptive statistics->Kurtosis
+Descriptive statistics->Histograms
+Descriptive statistics->Stem-and-leaf display
+Descriptive statistics->Pearson's r
+Descriptive statistics->Spearman's rho
+Descriptive statistics->Covariance
+Descriptive statistics->Prediction
+Descriptive statistics->Z-score
+Descriptive statistics->Normal distribution
+Data visualization->Visual communication
+Data visualization->Visual system
+Data visualization->Data
+Data visualization->Statistical graphics
+Data visualization->Plot (graphics)
+Data visualization->Infographic
+Data visualization->Causality
+Data visualization->Descriptive statistics
+Data visualization->Grounded theory
+Data visualization->Big data
+Data visualization->Internet of things
+Data visualization->Data science
+Data visualization->Data scientists
+Data visualization->Data analysis
+Data visualization->Data science
+Data visualization->Fernanda Viegas
+Data visualization->Martin M. Wattenberg
+Data visualization->Information graphics
+Data visualization->Information visualization
+Data visualization->Scientific visualization
+Data visualization->Exploratory data analysis
+Data visualization->Statistical graphics
+Data visualization->John Tukey
+Data visualization->Edward Tufte
+Data visualization->Edward Tufte
+Data visualization->Misleading graphs
+Data visualization->Chartjunk
+Data visualization->Congressional Budget Office
+Data visualization->Exploratory data analysis
+Data visualization->Pre-attentive processing
+Data visualization->Data exploration
+Data visualization->York University
+Data visualization->Lascaux
+Data visualization->Pleistocene
+Data visualization->History of ancient numeral systems
+Data visualization->Quipu
+Data visualization->Marshall Islands stick chart
+Data visualization->Turin Papyrus Map
+Data visualization->Linear B
+Data visualization->Mycenae
+Data visualization->Claudius Ptolemy
+Data visualization->Tycho Brahe
+Data visualization->René Descartes
+Data visualization->Pierre de Fermat
+Data visualization->Blaise Pascal
+Data visualization->William Playfair
+Data visualization->Jacques Bertin
+Data visualization->SAS (software)
+Data visualization->SOFA Statistics
+Data visualization->R (programming language)
+Data visualization->Minitab
+Data visualization->D3.js
+Data visualization->Python (programming language)
+Data visualization->JavaScript
+Data visualization->The Data Incubator
+Data visualization->General Assembly
+Data visualization->Information graphics
+Data visualization->Statistical graphics
+Data visualization->Thematic map
+Data visualization->Graphic design
+Data visualization->Computer science
+Data visualization->Business Intelligence
+Data visualization->Information discovery
+Data visualization->Organizational psychology
+Data visualization->Change management
+Algorithm->Mathematics
+Algorithm->Computer science
+Algorithm->Help:IPA/English
+Algorithm->About this sound
+Algorithm->En-us-algorithm.ogg
+Algorithm->Calculation
+Algorithm->Data processing
+Algorithm->Automated reasoning
+Algorithm->Effective method
+Algorithm->Function (mathematics)
+Algorithm->Empty string
+Algorithm->Computation
+Algorithm->Execution (computing)
+Algorithm->Deterministic
+Algorithm->Randomized algorithms
+Algorithm->Sieve of Eratosthenes
+Algorithm->Euclidean algorithm
+Algorithm->Muḥammad ibn Mūsā al-Khwārizmī
+Algorithm->Entscheidungsproblem
+Algorithm->David Hilbert
+Algorithm->Effective calculability
+Algorithm->Kurt Gödel
+Algorithm->Jacques Herbrand
+Algorithm->Stephen Cole Kleene
+Algorithm->Recursion (computer science)
+Algorithm->Alonzo Church
+Algorithm->Lambda calculus
+Algorithm->Emil Post
+Algorithm->Formulation 1
+Algorithm->Alan Turing
+Algorithm->Turing machines
+Algorithm->Muhammad ibn Musa al-Khwarizmi
+Algorithm->Persian language
+Algorithm->Persian people
+Algorithm->Astronomer
+Algorithm->Geographer
+Algorithm->House of Wisdom
+Algorithm->Baghdad
+Algorithm->Khwarezm
+Algorithm->Greater Iran
+Algorithm->Uzbekistan
+Algorithm->Arabic language
+Algorithm->Hindu–Arabic numeral system
+Algorithm->Latin
+Algorithm->Latinisation of names
+Algorithm->Al-Jabr
+Algorithm->Algorism
+Algorithm->Geoffrey Chaucer
+Algorithm->Alexander of Villedieu
+Algorithm->Euclidean algorithm
+Algorithm->Flowchart
+Algorithm->Decidability (logic)
+Algorithm->Formal system
+Algorithm->Axiom
+Algorithm->Logic
+Algorithm->Turing reduction
+Algorithm->Data structure
+Algorithm->Control flow
+Algorithm->Imperative programming
+Algorithm->Assignment operation
+Algorithm->Memory
+Algorithm->Functional programming
+Algorithm->Logic programming
+Algorithm->Natural language
+Algorithm->Pseudocode
+Algorithm->Flowchart
+Algorithm->DRAKON
+Algorithm->Programming language
+Algorithm->Control table
+Algorithm->Interpreter (computing)
+Algorithm->DRAKON
+Algorithm->Turing machine
+Algorithm->Finite-state machine
+Algorithm->State transition table
+Algorithm->Control table
+Algorithm->DRAKON
+Algorithm->State diagram
+Algorithm->Machine code
+Algorithm->Assembly code
+Algorithm->Turing machine
+Algorithm->Algorithm
+Algorithm->Operation research
+Algorithm->Dynamic programming
+Algorithm->Divide and conquer algorithm
+Algorithm->Big O notation
+Algorithm->Computer programs
+Algorithm->Biological neural network
+Algorithm->Human brain
+Algorithm->Arithmetic
+Algorithm->Electrical circuit
+Algorithm->Computer systems
+Algorithm->Logic
+Algorithm->Time complexity
+Algorithm->Halting problem
+Algorithm->Computability
+Algorithm->Minsky machine
+Algorithm->Turing complete
+Algorithm->Computational complexity theory
+Algorithm->Modular arithmetic
+Algorithm->Church–Turing thesis
+Algorithm->Turing complete
+Algorithm->Spaghetti code
+Algorithm->Structured program theorem
+Algorithm->Proof of correctness
+Algorithm->Mathematical induction
+Algorithm->Flowchart
+Algorithm->Pseudocode
+Algorithm->Pidgin code
+Algorithm->Euclid
+Algorithm->Greatest common divisor
+Algorithm->Euclid's Elements
+Algorithm->Reductio ad absurdum
+Algorithm->Relatively prime
+Algorithm->Domain (mathematics)
+Algorithm->Instance (computer science)
+Algorithm->Partial function
+Algorithm->Total function
+Algorithm->Ariane 5 Flight 501
+Algorithm->Mathematical induction
+Algorithm->Algorithm analysis
+Algorithm->Heuristic
+Algorithm->Busy beaver
+Algorithm->Inductive reasoning
+Algorithm->Analysis of algorithms
+Algorithm->Big O notation
+Algorithm->Algorithmic efficiency
+Algorithm->Binary search
+Algorithm->Lookup table
+Algorithm->Analysis of algorithms
+Algorithm->Computer science
+Algorithm->Programming language
+Algorithm->Pseudocode
+Algorithm->Algorithmic efficiency
+Algorithm->Benchmark (computing)
+Algorithm->Fast Fourier transform
+Algorithm->Optimization problem
+Algorithm->Search algorithm
+Algorithm->Sorting algorithm
+Algorithm->Merge algorithm
+Algorithm->Numerical analysis
+Algorithm->Graph theory
+Algorithm->String algorithms
+Algorithm->Computational geometry
+Algorithm->Combinatorial
+Algorithm->Medical algorithm
+Algorithm->Machine learning
+Algorithm->Cryptography
+Algorithm->Data compression
+Algorithm->Parsing
+Algorithm->Gottschalk v. Benson
+Algorithm->Diamond v. Diehr
+Algorithm->Feedback
+Algorithm->Synthetic rubber
+Algorithm->Software patent debate
+Algorithm->Data compression
+Algorithm->Unisys
+Algorithm->Graphics Interchange Format
+Algorithm->Export of cryptography
+Algorithm->Andrew Tutt (page does not exist)
+Algorithm->Algorithmic accountability (page does not exist)
+Algorithm->Artificial neural network
+Algorithm->Explainable AI
+Algorithm->Sieve of Eratosthenes
+Algorithm->Introduction to Arithmetic
+Algorithm->Nicomachus
+Algorithm->Euclidean algorithm
+Algorithm->Euclid's Elements
+Algorithm->Babylonian astronomy
+Algorithm->Roman numerals
+Algorithm->Abacus
+Algorithm->Unary numeral system
+Algorithm->Turing machine
+Algorithm->Post–Turing machine
+Algorithm->Greek mathematics
+Algorithm->Euclidean algorithm
+Algorithm->List of Indian mathematicians
+Algorithm->Brahmagupta
+Algorithm->List of Iranian mathematicians
+Algorithm->Muhammad ibn Mūsā al-Khwārizmī
+Algorithm->Algorism
+Algorithm->Gottfried Leibniz
+Algorithm->Calculus ratiocinator
+Algorithm->Clock
+Algorithm->Verge escapement
+Algorithm->Automata theory
+Algorithm->Difference engine
+Algorithm->Analytical engine
+Algorithm->Charles Babbage
+Algorithm->Ada Lovelace
+Algorithm->Turing-complete
+Algorithm->Calculator
+Algorithm->Stanley Jevons
+Algorithm->Boolean equation
+Algorithm->Karnaugh map
+Algorithm->Syllogism
+Algorithm->John Venn
+Algorithm->Algorithm characterizations
+Algorithm->Jacquard loom
+Algorithm->Hollerith cards
+Algorithm->Telegraph
+Algorithm->Ticker tape
+Algorithm->Teleprinter
+Algorithm->Baudot code
+Algorithm->Relay
+Algorithm->George Stibitz
+Algorithm->George Boole
+Algorithm->Gottlob Frege
+Algorithm->Giuseppe Peano
+Algorithm->Alfred North Whitehead
+Algorithm->Bertrand Russell
+Algorithm->Principia Mathematica
+Algorithm->Burali-Forti paradox
+Algorithm->Russell paradox
+Algorithm->Richard Paradox
+Algorithm->Kurt Gödel
+Algorithm->Recursion
+Algorithm->Entscheidungsproblem
+Algorithm->Alonzo Church
+Algorithm->Stephen Kleene
+Algorithm->J. B. Rosser
+Algorithm->Λ-calculus
+Algorithm->Jacques Herbrand
+Algorithm->Emil Post
+Algorithm->J. Barkley Rosser
+Algorithm->S. C. Kleene
+Algorithm->Church thesis
+Algorithm->Wikipedia:Manual of Style/Words to watch
+Algorithm->Emil Post
+Algorithm->Alan Turing
+Algorithm->Wikipedia:Manual of Style/Words to watch
+Algorithm->Turing machine
+Algorithm->J. Barkley Rosser
+Algorithm->Stephen C. Kleene
+Algorithm->Church–Turing thesis
+Algorithm->Foundations of mathematics
+Algorithm->Church–Turing thesis
+Algorithm->Philosophy of mind
+Algorithm->Artificial intelligence
+Algorithm->Algorithm characterizations
+Correlation and dependence->Statistics
+Correlation and dependence->Causality
+Correlation and dependence->Random variable
+Correlation and dependence->Bivariate data
+Correlation and dependence->Line (geometry)
+Correlation and dependence->Human height
+Correlation and dependence->Demand curve
+Correlation and dependence->Causality
+Correlation and dependence->Correlation does not imply causation
+Correlation and dependence->Independence (probability theory)
+Correlation and dependence->Conditional expectation
+Correlation and dependence->Correlation coefficient
+Correlation and dependence->Pearson product-moment correlation coefficient
+Correlation and dependence->Robust statistics
+Correlation and dependence->Mutual information
+Correlation and dependence->Pearson product-moment correlation coefficient
+Correlation and dependence->Covariance
+Correlation and dependence->Standard deviation
+Correlation and dependence->Karl Pearson
+Correlation and dependence->Francis Galton
+Correlation and dependence->Random variables
+Correlation and dependence->Expected value
+Correlation and dependence->Standard deviation
+Correlation and dependence->Expected value
+Correlation and dependence->Covariance
+Correlation and dependence->Cauchy–Schwarz inequality
+Correlation and dependence->Absolute value
+Correlation and dependence->Open interval
+Correlation and dependence->Linear dependence
+Correlation and dependence->Statistical independence
+Correlation and dependence->Uncorrelated
+Correlation and dependence->Bivariate Gaussian distribution
+Correlation and dependence->Arithmetic mean
+Correlation and dependence->Standard deviation
+Correlation and dependence->Standard deviation
+Correlation and dependence->Coefficient of determination
+Correlation and dependence->Rank correlation
+Correlation and dependence->Spearman's rank correlation coefficient
+Correlation and dependence->Kendall's tau
+Correlation and dependence->Pearson product-moment correlation coefficient
+Correlation and dependence->Multivariate normal distribution
+Correlation and dependence->Elliptical distribution
+Correlation and dependence->Multivariate t-distribution
+Correlation and dependence->Distance correlation
+Correlation and dependence->Copula (probability theory)
+Correlation and dependence->Correlation ratio
+Correlation and dependence->Wikipedia:Citation needed
+Correlation and dependence->Wikipedia:Please clarify
+Correlation and dependence->Entropy (information theory)
+Correlation and dependence->Mutual information
+Correlation and dependence->Total correlation
+Correlation and dependence->Dual total correlation
+Correlation and dependence->Wikipedia:Citation needed
+Correlation and dependence->Polychoric correlation
+Correlation and dependence->Copula (statistics)
+Correlation and dependence->Coefficient of determination
+Correlation and dependence->Simple linear regression
+Correlation and dependence->Monotone function
+Correlation and dependence->Moment (mathematics)
+Correlation and dependence->Quantile
+Correlation and dependence->Bias of an estimator
+Correlation and dependence->Consistent estimator
+Correlation and dependence->Scaled correlation
+Correlation and dependence->Covariance matrix
+Correlation and dependence->Standardized variable
+Correlation and dependence->Positive-semidefinite matrix
+Correlation and dependence->Positive definite matrix
+Correlation and dependence->Coefficient of multiple determination
+Correlation and dependence->Multiple regression
+Correlation and dependence->Statistical modelling
+Correlation and dependence->Exchangeability
+Correlation and dependence->Autoregressive model
+Correlation and dependence->Correlation does not imply causation
+Correlation and dependence->Identity (mathematics)
+Correlation and dependence->Tautology (logic)
+Correlation and dependence->Conditional expectation
+Correlation and dependence->Scatter plot
+Correlation and dependence->Anscombe's quartet
+Correlation and dependence->Francis Anscombe
+Correlation and dependence->Outlier
+Correlation and dependence->Normal distribution
+Correlation and dependence->Bivariate normal distribution
+Correlation and dependence->Marginal distribution
+Causality->Result
+Causality->Wikipedia:Citation needed
+Causality->Factor (disambiguation)
+Causality->Past
+Causality->Future
+Causality->Metaphysics
+Causality->Time and space
+Causality->Abstraction
+Causality->Intuition (knowledge)
+Causality->Aristotelian philosophy
+Causality->Aristotle
+Causality->Explanandum
+Causality->Explanandum
+Causality->Four causes
+Causality->Contemporary philosophy
+Causality->Metaphysics
+Causality->Process philosophy
+Causality->Enduring
+Causality->Alfred Robb
+Causality->Max Jammer
+Causality->J. L. Mackie
+Causality->Indicative conditional
+Causality->Antecedent (logic)
+Causality->Consequent
+Causality->Sentential logic
+Causality->Indicative conditional
+Causality->Counterfactual conditional
+Causality->Informal fallacy
+Causality->Counterfactual thinking
+Causality->Psychology of reasoning
+Causality->David Hume
+Causality->David Lewis (philosopher)
+Causality->Determinism
+Causality->Tobacco smoking
+Causality->Cancer
+Causality->Emphysema
+Causality->Wikipedia:Citation needed
+Causality->Causal graphs
+Causality->Bayesian network
+Causality->Path analysis (statistics)
+Causality->Quantum mechanics
+Causality->Uncertainty principle
+Causality->Wikipedia:Vagueness
+Causality->Thermodynamics
+Causality->Thermodynamic process
+Causality->Thermodynamic operation
+Causality->Astronomy
+Causality->Bayesian network
+Causality->Confounding variables
+Causality->Sewall Wright
+Causality->Path analysis (statistics)
+Causality->Directed acyclic graph
+Causality->Cross-sectional data
+Causality->Correlation
+Causality->Experiment
+Causality->Path analysis (statistics)
+Causality->Structural equation model
+Causality->Time series
+Causality->Granger causality
+Causality->Cross-correlation
+Causality->ARIMA
+Causality->Cross-spectrum
+Causality->Cross-sectional data
+Causality->Herbert A. Simon
+Causality->Nicholas Rescher
+Causality->Begging the question
+Causality->Anthropocentrism
+Causality->Pseudo-process (page does not exist)
+Causality->Scientific method
+Causality->Experiment
+Causality->Know
+Causality->Carrot
+Causality->Bubonic plague
+Causality->Correlation does not imply causation
+Causality->Equations of motion
+Causality->Constraint (classical mechanics)
+Causality->Kramers-Kronig relations
+Causality->Lorentz transform
+Causality->Special relativity
+Causality->Group velocity
+Causality->Phase velocity
+Causality->Matter wave
+Causality->Causal system
+Causality->System
+Causality->Anticausal system
+Causality->Austin Bradford Hill
+Causality->David Hume
+Causality->Karl Popper
+Causality->Bradford-Hill criteria
+Causality->Innatism
+Causality->Attribution theory
+Causality->Theory
+Causality->Attribution (psychology)
+Causality->Moral responsibility
+Causality->Accountability
+Causality->Action (philosophy)
+Causality->Accident
+Causality->Blame
+Causality->Intent (law)
+Causality->David Hume
+Causality->Immanuel Kant
+Causality->Patricia Cheng
+Causality->Causal Reasoning (Psychology)
+Causality->Statistics
+Causality->Economics
+Causality->Regression analysis
+Causality->Causality
+Causality->Instrumental variables
+Causality->Granger causality
+Causality->Vector autoregression
+Causality->Determinism
+Causality->Universe
+Causality->Chain of events
+Causality->Incompatibilism
+Causality->Free will
+Causality->Compatibilism
+Causality->Kaoru Ishikawa
+Causality->Ishikawa diagram
+Causality->French Revolution
+Causality->Plato
+Causality->Georg Wilhelm Friedrich Hegel
+Causality->Concretization
+Causality->Ontology
+Causality->Law
+Causality->Jurisprudence
+Causality->Defendant
+Causality->Crime
+Causality->Tort
+Causality->Abrahamic religions
+Causality->Incompatibilism
+Causality->Omnipotence
+Causality->Vedic period
+Causality->Sanathana Dharma
+Causality->Reincarnation
+Causality->Darsanas
+Causality->Nyaya
+Causality->Brahma Samhita
+Causality->Monier Monier-Williams
+Causality->Nyāya
+Causality->Vaisheshika
+Causality->Wikipedia:Citation needed
+Causality->Chittamatrin
+Causality->Asanga
+Causality->Yogachara
+Causality->Svatantrika
+Causality->Nikayas
+Causality->Abhidharmakośakārikā
+Causality->Vasubandhu
+Causality->Abhidharma
+Causality->Sarvāstivāda
+Causality->Wikipedia:Citation needed
+Causality->Vaibhashika
+Causality->Early buddhist school
+Causality->Aristotle
+Causality->Aristotelian physics
+Causality->Four classical elements
+Causality->Aether (classical element)
+Causality->Sublunary sphere
+Causality->Aristotelian metaphysics
+Causality->Infinite regress
+Causality->Unmoved mover
+Causality->Thomas Aquinas
+Causality->First cause
+Causality->Wikipedia:Citation needed
+Causality->Middle Ages
+Causality->Niccolò Machiavelli
+Causality->Francis Bacon
+Causality->Science
+Causality->David Hume
+Causality->A Treatise of Human Nature
+Causality->Max Born
+Statistical inference->Data analysis
+Statistical inference->Probability distribution
+Statistical inference->Statistical population
+Statistical inference->Sampling (statistics)
+Statistical inference->Descriptive statistics
+Statistical inference->Sampling (statistics)
+Statistical inference->Model selection
+Statistical inference->Statistical model
+Statistical inference->Wikipedia:Citation needed
+Statistical inference->David Cox (statistician)
+Statistical inference->Logical consequence
+Statistical inference->Proposition
+Statistical inference->Wikipedia:Citation needed
+Statistical inference->Simple random sample
+Statistical inference->Approximation theory
+Statistical inference->Sample distribution
+Statistical inference->Normal distribution
+Statistical inference->Sample mean
+Statistical inference->Berry–Esseen theorem
+Statistical inference->Approximation theory
+Statistical inference->Functional analysis
+Statistical inference->Metric geometry
+Statistical inference->Probability distribution
+Statistical inference->Kullback–Leibler divergence
+Statistical inference->Bregman divergence
+Statistical inference->Hellinger distance
+Statistical inference->Asymptotic theory (statistics)
+Statistical inference->Central limit theorem
+Statistical inference->Generalized method of moments
+Statistical inference->Generalized estimating equation
+Statistical inference->Econometrics
+Statistical inference->Biostatistics
+Statistical inference->Statistical model
+Statistical inference->Logarithmically concave function
+Statistical inference->Likelihood function
+Statistical inference->Exponential families
+Statistical inference->Bayesian inference
+Statistical inference->Survey sampling
+Statistical inference->Sampling without replacement
+Statistical inference->Exchangeability
+Statistical inference->Missing at random
+Statistical inference->Covariate
+Statistical inference->Randomized experiment
+Statistical inference->Frequentist inference
+Statistical inference->Bayesian inference
+Statistical inference->Akaike information criterion
+Statistical inference->Frequentist inference
+Statistical inference->Frequency probability
+Statistical inference->Utility function
+Statistical inference->Statistical decision theory
+Statistical inference->Utility function
+Statistical inference->Wikipedia:Citation needed
+Statistical inference->Minimum-variance unbiased estimator
+Statistical inference->Uniformly most powerful test
+Statistical inference->Loss function
+Statistical inference->Absolute value
+Statistical inference->Least squares
+Statistical inference->Estimators
+Statistical inference->Test statistic
+Statistical inference->Wikipedia:Citation needed
+Statistical inference->Bayesian probability
+Statistical inference->Utility function
+Statistical inference->Bayesian probability
+Statistical inference->Optimal decision
+Statistical inference->Decision theory
+Statistical inference->Coherence (statistics)
+Statistical inference->Coherence (statistics)
+Statistical inference->Bayesian inference
+Statistical inference->Bayesian inference
+Statistical inference->Akaike information criterion
+Statistical inference->Estimator
+Statistical inference->Statistical model
+Statistical inference->Model selection
+Statistical inference->Information theory
+Statistical inference->Goodness of fit
+Statistical inference->Information theory
+Statistical inference->Kolmogorov complexity
+Statistical inference->Probability models
+Statistical inference->Claude Shannon
+Statistical inference->Source coding theorem
+Statistical inference->Maximum likelihood estimation
+Statistical inference->Maximum a posteriori estimation
+Statistical inference->Maximum entropy probability distribution
+Statistical inference->Bayesian probability
+Statistical inference->Coding theory
+Statistical inference->Information theory
+Statistical inference->Linear regression
+Statistical inference->Data mining
+Statistical inference->Computational complexity theory
+Statistical inference->Fiducial inference
+Statistical inference->Fiducial probability
+Statistical inference->Confidence distribution
+Statistical inference->Probability distribution
+Statistical inference->Confidence interval
+Statistical inference->Fiducial probability
+Statistical inference->Upper and lower probabilities
+Statistical inference->George A. Barnard
+Statistical inference->Haar measure
+Statistical inference->Group family
+Regression analysis->Statistical model
+Regression analysis->Estimation theory
+Regression analysis->Dependent variable
+Regression analysis->Independent variable
+Regression analysis->Conditional expectation
+Regression analysis->Average value
+Regression analysis->Quantile
+Regression analysis->Location parameter
+Regression analysis->Function (mathematics)
+Regression analysis->Probability distribution
+Regression analysis->Necessity and sufficiency
+Regression analysis->Prediction
+Regression analysis->Forecasting
+Regression analysis->Machine learning
+Regression analysis->Causality
+Regression analysis->Correlation does not imply causation
+Regression analysis->Linear regression
+Regression analysis->Ordinary least squares
+Regression analysis->Parametric statistics
+Regression analysis->Parameter
+Regression analysis->Data
+Regression analysis->Nonparametric regression
+Regression analysis->Function (mathematics)
+Regression analysis->Dimension
+Regression analysis->Data collection
+Regression analysis->Effect size
+Regression analysis->Causality
+Regression analysis->Observational study
+Regression analysis->Statistical classification
+Regression analysis->Method of least squares
+Regression analysis->Adrien Marie Legendre
+Regression analysis->Carl Friedrich Gauss
+Regression analysis->Gauss–Markov theorem
+Regression analysis->Francis Galton
+Regression analysis->Regression toward the mean
+Regression analysis->Udny Yule
+Regression analysis->Karl Pearson
+Regression analysis->Joint distribution
+Regression analysis->Normal distribution
+Regression analysis->Ronald A. Fisher
+Regression analysis->Conditional distribution
+Regression analysis->Robust regression
+Regression analysis->Time series
+Regression analysis->Growth curve (statistics)
+Regression analysis->Nonparametric regression
+Regression analysis->Bayesian statistics
+Regression analysis->List of fields of application of statistics
+Regression analysis->Dependent and independent variables
+Regression analysis->Regression analysis
+Regression analysis->Invertible matrix
+Regression analysis->Degrees of freedom (statistics)
+Regression analysis->Statistical assumption
+Regression analysis->Bias of an estimator
+Regression analysis->Consistent estimator
+Regression analysis->Efficient (statistics)
+Regression analysis->Modifiable areal unit problem
+Regression analysis->Linear combination
+Regression analysis->Simple linear regression
+Regression analysis->Errors and residuals in statistics
+Regression analysis->Ordinary least squares
+Regression analysis->Errors and residuals in statistics
+Regression analysis->Residual sum of squares
+Regression analysis->Linear least squares (mathematics)
+Regression analysis->Arithmetic mean
+Regression analysis->Mean square error
+Regression analysis->Regressor
+Regression analysis->Standard error (statistics)
+Regression analysis->Confidence interval
+Regression analysis->Hypothesis test
+Regression analysis->Population parameter
+Regression analysis->Regression intercept
+Regression analysis->Goodness of fit
+Regression analysis->Statistical significance
+Regression analysis->R-squared
+Regression analysis->Errors and residuals in statistics
+Regression analysis->F-test
+Regression analysis->T-test
+Regression analysis->T-test
+Regression analysis->F-test
+Regression analysis->Central limit theorem
+Regression analysis->Limited dependent variable
+Regression analysis->Categorical variable
+Regression analysis->Econometrics
+Regression analysis->Linear probability model
+Regression analysis->Probit model
+Regression analysis->Logistic regression
+Regression analysis->Multivariate probit
+Regression analysis->Categorical variable
+Regression analysis->Multinomial logit
+Regression analysis->Ordinal variable
+Regression analysis->Ordered logit
+Regression analysis->Ordered probit
+Regression analysis->Censored regression model
+Regression analysis->Heckman correction
+Regression analysis->Polychoric correlation
+Regression analysis->Poisson regression
+Regression analysis->Negative binomial
+Regression analysis->Interpolation
+Regression analysis->Extrapolation
+Regression analysis->Wikipedia:Citation needed
+Regression analysis->Wikipedia:Citation needed
+Regression analysis->Least squares
+Regression analysis->Least squares
+Regression analysis->Simple linear regression
+Regression analysis->Spreadsheet
+Data visualization->Visual communication
+Data visualization->Visual system
+Data visualization->Data
+Data visualization->Statistical graphics
+Data visualization->Plot (graphics)
+Data visualization->Infographic
+Data visualization->Causality
+Data visualization->Descriptive statistics
+Data visualization->Grounded theory
+Data visualization->Big data
+Data visualization->Internet of things
+Data visualization->Data science
+Data visualization->Data scientists
+Data visualization->Data analysis
+Data visualization->Data science
+Data visualization->Fernanda Viegas
+Data visualization->Martin M. Wattenberg
+Data visualization->Information graphics
+Data visualization->Information visualization
+Data visualization->Scientific visualization
+Data visualization->Exploratory data analysis
+Data visualization->Statistical graphics
+Data visualization->John Tukey
+Data visualization->Edward Tufte
+Data visualization->Edward Tufte
+Data visualization->Misleading graphs
+Data visualization->Chartjunk
+Data visualization->Congressional Budget Office
+Data visualization->Exploratory data analysis
+Data visualization->Pre-attentive processing
+Data visualization->Data exploration
+Data visualization->York University
+Data visualization->Lascaux
+Data visualization->Pleistocene
+Data visualization->History of ancient numeral systems
+Data visualization->Quipu
+Data visualization->Marshall Islands stick chart
+Data visualization->Turin Papyrus Map
+Data visualization->Linear B
+Data visualization->Mycenae
+Data visualization->Claudius Ptolemy
+Data visualization->Tycho Brahe
+Data visualization->René Descartes
+Data visualization->Pierre de Fermat
+Data visualization->Blaise Pascal
+Data visualization->William Playfair
+Data visualization->Jacques Bertin
+Data visualization->SAS (software)
+Data visualization->SOFA Statistics
+Data visualization->R (programming language)
+Data visualization->Minitab
+Data visualization->D3.js
+Data visualization->Python (programming language)
+Data visualization->JavaScript
+Data visualization->The Data Incubator
+Data visualization->General Assembly
+Data visualization->Information graphics
+Data visualization->Statistical graphics
+Data visualization->Thematic map
+Data visualization->Graphic design
+Data visualization->Computer science
+Data visualization->Business Intelligence
+Data visualization->Information discovery
+Data visualization->Organizational psychology
+Data visualization->Change management
+Display device->Output device
+Display device->Information
+Display device->Visual
+Display device->Touch
+Display device->Refreshable Braille display
+Display device->Electronic visual display
+Display device->Television
+Display device->Computer monitor
+Display device->Numerical digit
+Display device->Alphanumeric
+Display device->Glyph
+Display device->LED
+Display device->LCD
+Display device->Digital watch
+Display device->Pocket calculator
+Display device->2-dimensional
+Display device->Rectangle
+Display device->Video
+Display device->Multiplexed display
+Display device->History of display technology
+Descriptive statistics->Count noun
+Descriptive statistics->Summary statistic
+Descriptive statistics->Information
+Descriptive statistics->Mass noun
+Descriptive statistics->Statistical inference
+Descriptive statistics->Sample (statistics)
+Descriptive statistics->Statistical population
+Descriptive statistics->Probability theory
+Descriptive statistics->Nonparametric statistics
+Descriptive statistics->Sample size
+Descriptive statistics->Demographic
+Descriptive statistics->Average
+Descriptive statistics->Comorbidity
+Descriptive statistics->Central tendency
+Descriptive statistics->Statistical dispersion
+Descriptive statistics->Mean
+Descriptive statistics->Median
+Descriptive statistics->Mode (statistics)
+Descriptive statistics->Standard deviation
+Descriptive statistics->Variance
+Descriptive statistics->Kurtosis
+Descriptive statistics->Skewness
+Descriptive statistics->Quantitative research
+Descriptive statistics->Summary statistics
+Descriptive statistics->Percentage
+Descriptive statistics->Basketball
+Descriptive statistics->Grade point average
+Descriptive statistics->Statistics
+Descriptive statistics->Exploratory data analysis
+Descriptive statistics->Box plot
+Descriptive statistics->Univariate analysis
+Descriptive statistics->Frequency distribution
+Descriptive statistics->Mean
+Descriptive statistics->Median
+Descriptive statistics->Mode (statistics)
+Descriptive statistics->Range (statistics)
+Descriptive statistics->Quartiles
+Descriptive statistics->Variance
+Descriptive statistics->Standard deviation
+Descriptive statistics->Skewness
+Descriptive statistics->Kurtosis
+Descriptive statistics->Histograms
+Descriptive statistics->Stem-and-leaf display
+Descriptive statistics->Pearson's r
+Descriptive statistics->Spearman's rho
+Descriptive statistics->Covariance
+Descriptive statistics->Prediction
+Descriptive statistics->Z-score
+Descriptive statistics->Normal distribution
+Median->Sample (statistics)
+Median->Statistical population
+Median->Probability distribution
+Median->Continuous probability distribution
+Median->Statistics
+Median->Probability theory
+Median->Arithmetic mean
+Median->Skewness
+Median->Robust statistics
+Median->Resistant statistic
+Median->Breakdown point
+Median->Arithmetic mean
+Median->Trimmed estimator
+Median->Mid-range
+Median->Stem-and-leaf display
+Median->Skewness
+Median->Arithmetic mean
+Median->Multiset
+Median->Mode (statistics)
+Median->Central tendency
+Median->Arithmetic mean
+Median->Summary statistic
+Median->Descriptive statistics
+Median->Outlier
+Median->Mean
+Median->Medoid
+Median->Location parameter
+Median->Skewness
+Median->Outlier
+Median->Weak ordering
+Median->Distance metric
+Median->Geometric median
+Median->Location parameter
+Median->Quartile
+Median->Decile
+Median->Percentile
+Median->Quartile
+Median->Range (statistics)
+Median->Interquartile range
+Median->Mean absolute deviation
+Median->Median absolute deviation
+Median->Efficiency (statistics)
+Median->Efficiency (statistics)
+Median->Probability distribution
+Median->Real number
+Median->Cumulative distribution function
+Median->Absolute continuity
+Median->Probability density function
+Median->Lebesgue–Stieltjes integral
+Median->Probability density function
+Median->Probability distribution
+Median->Cumulative distribution function
+Median->Cauchy distribution
+Median->Random variable
+Median->Multivariate median
+Median->Spatial median
+Median->K-medians clustering
+Median->Standard deviation
+Median->Jensen's inequality
+Median->Absolute deviation
+Median->Cantelli's inequality
+Median->Spatial median
+Median->An inequality on location and scale parameters
+Median->Interval (mathematics)
+Median->Singleton (mathematics)
+Median->Empty set
+Median->Sorting algorithm
+Median->Big O notation
+Median->Selection algorithm
+Median->Order statistic
+Median->Arithmetic mean
+Median->Quicksort
+Median->Robust estimator
+Median->John Tukey
+Median->Array (data structure)
+Median->Pierre-Simon Laplace
+Median->Resampling (statistics)
+Median->Consistent estimator
+Median->Computational complexity theory
+Median->Efficiency (statistics)
+Median->Normal distribution
+Median->Hodges–Lehmann estimator
+Median->Robust statistics
+Median->Efficiency (statistics)
+Median->Statistical model
+Median->Probability distribution
+Median->Wikipedia:Citation needed
+Median->Pareto interpolation
+Median->Pareto distribution
+Median->Iowa
+Median->New York (state)
+Median->South Dakota
+Median->Metric (mathematics)
+Median->Medoid
+Median->K-medoids
+Median->Normed space
+Median->Vector space
+Median->Euclidean norm
+Median->Strictly convex function
+Median->Geometric median
+Median->Location theory
+Median->L1-norm
+Median->Population (statistics)
+Median->Dimension (linear algebra)
+Median->Banach space
+Median->Robust statistics
+Median->Efficiency (statistics)
+Median->Central tendency
+Median->Centerpoint (geometry)
+Median->Hodges–Lehmann estimator
+Median->Wikipedia:Citation needed
+Median->Theil–Sen estimator
+Median->Robust statistics
+Median->Linear regression
+Median->Slope
+Median->Image processing
+Median->Monochrome
+Median->Raster image
+Median->Salt and pepper noise
+Median->Noise reduction
+Median->Wikipedia:Citation needed
+Median->Cluster analysis
+Median->K-medians clustering
+Median->K-means clustering
+Median->Abraham Wald
+Median->Bias of an estimator
+Median->Risk
+Median->Expected loss
+Median->Loss function
+Median->Gauss
+Median->Bias of an estimator
+Median->Absolute deviation
+Median->Laplace
+Median->Loss functions
+Median->Statistical theory
+Median->Robust statistics
+Median->Injective function
+Median->Monotone likelihood ratio
+Median->Rao–Blackwell theorem
+Median->Loss function
+Median->Talmud
+Median->Wikipedia:Citation needed
+Median->Edward Wright (mathematician)
+Median->Compass
+Median->Roger Joseph Boscovich
+Median->L1 norm
+Median->Pierre-Simon Laplace
+Median->Least squares
+Median->Carl Friedrich Gauss
+Median->Adrien-Marie Legendre
+Median->Antoine Augustin Cournot
+Median->Wikipedia:Citation needed
+Median->Gustav Theodor Fechner
+Median->Gustav Theodor Fechner
+Median->Francis Galton
+Median->planetmath:35900
+Median->PlanetMath
+Median->Wikipedia:CC-BY-SA
